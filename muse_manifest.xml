@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498715686293">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498692466648">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="4155887864" ref="index"/>
+    <file name="index.css" crc="533480507" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -18,13 +18,13 @@
     <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
     <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:phone>index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
@@ -69,8 +69,8 @@
     </file>
     <file name="u46411-4.png" crc="3843935026" ref="phone>index"/>
     <file name="u46411-4_2x.png" crc="57596131" ref="phone>index"/>
-    <file name="u58963-4.png" crc="252210896" ref="phone>index"/>
-    <file name="u58963-4_2x.png" crc="24513854" ref="phone>index"/>
+    <file name="u58963-5.png" crc="4090813130" ref="phone>index"/>
+    <file name="u58963-5_2x.png" crc="530960564" ref="phone>index"/>
     <file name="u58967-4.png" crc="449301781" ref="phone>index"/>
     <file name="u58967-4_2x.png" crc="98509157" ref="phone>index"/>
     <file name="бабчки-мигалки-2.jpg" crc="131687188" seo="true" ref="phone>index">
@@ -306,8 +306,8 @@
     <file name="u54872-4_2x.png" crc="384128602" ref="phone>index"/>
     <file name="u54948-4.png" crc="313829025" ref="phone>index"/>
     <file name="u54948-4_2x.png" crc="73569984" ref="phone>index"/>
-    <file name="u58963-42.png" crc="252210896" ref="phone>index"/>
-    <file name="u58963-4_2x2.png" crc="24513854" ref="phone>index"/>
+    <file name="u58963-52.png" crc="4090813130" ref="phone>index"/>
+    <file name="u58963-5_2x2.png" crc="530960564" ref="phone>index"/>
     <file name="u58967-42.png" crc="449301781" ref="phone>index"/>
     <file name="u58967-4_2x2.png" crc="98509157" ref="phone>index"/>
     <file name="замок 5.png" crc="3969770600" seo="true" ref="phone>index">
@@ -536,6 +536,9 @@
     <file name="16_2x.png" crc="69509936" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="лист.jpg" crc="3917235389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="письмо 3.png" crc="258229551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -598,10 +601,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="172080001" ref="phone>index"/>
-      <file name="nomq_index.css" crc="527111623" ref="phone>index"/>
+      <file name="index.css" crc="106666261" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3945563989" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4094466231" seo="true" mt="1498686882809" redirect="true"/>
+    <file name="index.html" crc="151896131" seo="true" redirect="true" mt="1498692212782"/>
   </folder>
-  <file name="index.html" crc="271627894" seo="true" mt="1498715621125" redirect="true"/>
+  <file name="index.html" crc="332577667" seo="true" redirect="true" mt="1498692415813"/>
 </manifest>
