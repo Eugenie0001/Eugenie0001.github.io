@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498686259698">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498686646593">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
     <file name="index.css" crc="405079612" ref="index"/>
@@ -60,18 +60,6 @@
     </file>
     <file name="часы-без-стрелок-5-u47712.png" crc="397228407" ref="phone>index"/>
     <file name="часы-без-стрелок-5-u47712_2x.png" crc="114450656" ref="phone>index"/>
-    <file name="бабчки-мигалки-2.jpg" crc="131687188" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="кнопка-канцелярская-4.png" crc="403768505" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="кнопка-канцелярская-4_2x.png" crc="48729373" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -92,6 +80,18 @@
     </file>
     <file name="u46411-4.png" crc="3843935026" ref="phone>index"/>
     <file name="u46411-4_2x.png" crc="57596131" ref="phone>index"/>
+    <file name="бабчки-мигалки-2.jpg" crc="131687188" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кнопка-канцелярская-4.png" crc="403768505" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кнопка-канцелярская-4_2x.png" crc="48729373" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -905,10 +905,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="419420280" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4199914807" ref="phone>index"/>
+      <file name="index.css" crc="473077209" ref="phone>index"/>
+      <file name="nomq_index.css" crc="226451917" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="14433026" seo="true" mt="1498686172942" redirect="true"/>
+    <file name="index.html" crc="4110485967" seo="true" mt="1498686548937" redirect="true"/>
   </folder>
   <file name="index.html" crc="12600155" seo="true" mt="1498684656876" redirect="true"/>
 </manifest>
