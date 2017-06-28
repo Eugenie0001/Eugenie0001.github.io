@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498683513296">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498684733626">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="4041017506" ref="index"/>
+    <file name="index.css" crc="405079612" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -60,16 +60,6 @@
     </file>
     <file name="часы-без-стрелок-5-u47712.png" crc="397228407" ref="phone>index"/>
     <file name="часы-без-стрелок-5-u47712_2x.png" crc="114450656" ref="phone>index"/>
-    <file name="молекулы.jpg" crc="163786109" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="молекулы_2x.jpg" crc="2671739" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u46411-4.png" crc="3843935026" ref="phone>index"/>
-    <file name="u46411-4_2x.png" crc="57596131" ref="phone>index"/>
     <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -80,6 +70,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="молекулы.jpg" crc="163786109" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="молекулы_2x.jpg" crc="2671739" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u46411-4.png" crc="3843935026" ref="phone>index"/>
+    <file name="u46411-4_2x.png" crc="57596131" ref="phone>index"/>
     <file name="бабчки-мигалки-2.jpg" crc="131687188" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -899,10 +899,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3867525577" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3806585122" ref="phone>index"/>
+      <file name="index.css" crc="481607955" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3982475403" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3971724401" seo="true" mt="1498683430389" redirect="true"/>
+    <file name="index.html" crc="364095577" seo="true" mt="1498684601433" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3871409463" seo="true" mt="1498682630293" redirect="true"/>
+  <file name="index.html" crc="12600155" seo="true" mt="1498684656876" redirect="true"/>
 </manifest>
