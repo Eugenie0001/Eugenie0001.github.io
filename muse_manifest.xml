@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498820287591">
-=======
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498819438503">
->>>>>>> 3c86b09b667d78ba55ea782ab6f4fbb402f0f04c
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1583925058006">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
     <file name="index.css" crc="4136220245" ref="index"/>
@@ -113,6 +109,7 @@
     <file name="u6089-6.png" crc="363062847" ref="phone>index"/>
     <file name="u6089-6_2x.png" crc="4280825557" ref="phone>index"/>
     <file name="аниме с подписями .gif" crc="145240404" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -642,11 +639,7 @@
       <file name="index.css" crc="377443958" ref="phone>index"/>
       <file name="nomq_index.css" crc="265707312" ref="phone>index"/>
     </folder>
-<<<<<<< HEAD
     <file name="index.html" crc="4080344489" seo="true" mt="1498820242532" redirect="true"/>
-=======
-    <file name="index.html" crc="4080344489" seo="true" mt="1498772875178" redirect="true"/>
->>>>>>> 3c86b09b667d78ba55ea782ab6f4fbb402f0f04c
   </folder>
   <file name="index.html" crc="525854609" seo="true" mt="1498819336118" redirect="true"/>
 </manifest>
