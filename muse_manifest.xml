@@ -1,14 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498782852711">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498689620448">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="485502844" ref="index"/>
+    <file name="index.css" crc="299227979" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
     <file name="для-landing-сайта-bussines-(before---after-slider)-2.png" crc="4252081864" seo="true" mt="1498805816000"/>
-    <file name="прайс-от-15-июня-2019--с.pdf" crc="203193766" seo="true" mt="1562704336000"/>
-    <file name="прайс-от-15-июня-2019--d.pdf" crc="4239925317" seo="true" mt="1562705395000"/>
-    <file name="прайс-от-15-июня-2019--e.pdf" crc="36871948" seo="true" mt="1562706148000"/>
     <file name="прайс-от-23-августа-2019.pdf" crc="4263790536" seo="true" mt="1566323254000"/>
     <file name="mobile--7.png" crc="3866625396" seo="true" mt="1566363851000"/>
     <file name="mobile--8.png" crc="4172429614" seo="true" mt="1566363805000"/>
@@ -28,8 +25,6 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="параллелограмм-u17417.png" crc="186717590" ref="phone>index"/>
-    <file name="параллелограмм-u17417_2x.png" crc="4033774607" ref="phone>index"/>
     <file name="marty.gif" crc="244283722" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -251,9 +246,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="113027072" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="107009656" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="404242821" ref="phone>index"/>
     <file name="u5403-r.png" crc="370600647" ref="phone>index"/>
-    <file name="u5403-r_2x.png" crc="4255972371" ref="phone>index"/>
+    <file name="u5403-r_2x.png" crc="515204971" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -284,8 +279,6 @@
     <file name="u5424_2x.png" crc="257418191" ref="phone>index"/>
     <file name="u5424-r.png" crc="3812470625" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="353474723" ref="phone>index"/>
-    <file name="параллелограмм-u174172.png" crc="186717590" ref="phone>index"/>
-    <file name="параллелограмм-u17417_2x2.png" crc="4033774607" ref="phone>index"/>
     <file name="u54872-4.png" crc="3809296593" ref="phone>index"/>
     <file name="u54872-4_2x.png" crc="384128602" ref="phone>index"/>
     <file name="u54948-4.png" crc="313829025" ref="phone>index"/>
@@ -305,9 +298,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u54032.png" crc="4061224753" ref="phone>index"/>
-    <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
+    <file name="u5403_2x2.png" crc="242253782" ref="phone>index"/>
     <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
-    <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
+    <file name="u5403-r_2x2.png" crc="4058604942" ref="phone>index"/>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -581,10 +574,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3909478121" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4280873208" ref="phone>index"/>
+      <file name="index.css" crc="411858103" ref="phone>index"/>
+      <file name="nomq_index.css" crc="403807978" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="342402070" seo="true" mt="1498782786595" redirect="true"/>
+    <file name="index.html" crc="210336554" seo="true" mt="1498689571551" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4269740033" seo="true" mt="1498779921117" redirect="true"/>
+  <file name="index.html" crc="4115255603" seo="true" redirect="true"/>
 </manifest>
