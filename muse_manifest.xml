@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498686646593">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498687352883">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
     <file name="index.css" crc="405079612" ref="index"/>
@@ -305,6 +305,8 @@
     <file name="изображение-для-моего-landing---округлость-1345x186_2x.png" crc="504432129" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u30445-7.png" crc="220617828" ref="phone>index"/>
+    <file name="u30445-7_2x.png" crc="3783633510" ref="phone>index"/>
     <file name="письмо 394x86.png" crc="258229551" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -345,14 +347,6 @@
     </file>
     <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u30445-7.png" crc="220617828" ref="phone>index"/>
-    <file name="u30445-7_2x.png" crc="3783633510" ref="phone>index"/>
-    <file name="themes-list128x106.png" crc="4173441891" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="themes-list128x106_2x.png" crc="4283467515" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
@@ -621,12 +615,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="16284x215_2x.png" crc="4289107206" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="themes-list188x156.png" crc="307659957" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
@@ -905,10 +893,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="473077209" ref="phone>index"/>
-      <file name="nomq_index.css" crc="226451917" ref="phone>index"/>
+      <file name="index.css" crc="3816215199" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4124536231" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4110485967" seo="true" mt="1498686548937" redirect="true"/>
+    <file name="index.html" crc="377476166" seo="true" mt="1498687255557" redirect="true"/>
   </folder>
   <file name="index.html" crc="12600155" seo="true" mt="1498684656876" redirect="true"/>
 </manifest>
