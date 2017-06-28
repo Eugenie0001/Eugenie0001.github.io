@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498686552424">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498686942879">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="103936884" ref="index"/>
+    <file name="index.css" crc="220310824" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -185,10 +185,10 @@
     <file name="a-(4)1325x245_2x.jpg" crc="264136371" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-(5)1325x245.jpg" crc="411963788" seo="true" ref="phone>index">
+    <file name="a-(5)1325x245.jpg" crc="3830239547" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-(5)1325x245_2x.jpg" crc="4246374419" seo="true" ref="phone>index">
+    <file name="a-(5)1325x245_2x.jpg" crc="3787429466" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="16325x245.png" crc="3999832435" seo="true" ref="phone>index">
@@ -430,10 +430,10 @@
     <file name="a-(4)1284x215_2x.jpg" crc="519722371" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-(5)1284x215.jpg" crc="92808147" seo="true" ref="phone>index">
+    <file name="a-(5)1284x215.jpg" crc="3797956363" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-(5)1284x215_2x.jpg" crc="3841060388" seo="true" ref="phone>index">
+    <file name="a-(5)1284x215_2x.jpg" crc="453651462" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="16284x215.png" crc="4043784242" seo="true" ref="phone>index">
@@ -524,10 +524,10 @@
     <file name="a-(4)1_2x.jpg" crc="345906743" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-(5)1.jpg" crc="4246374419" seo="true" ref="index">
+    <file name="a-(5)1.jpg" crc="328625133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-(5)1_2x.jpg" crc="3934793808" seo="true" ref="index">
+    <file name="a-(5)1_2x.jpg" crc="3942545711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="16.png" crc="348717349" seo="true" ref="index">
@@ -601,7 +601,7 @@
       <file name="index.css" crc="262536696" ref="phone>index"/>
       <file name="nomq_index.css" crc="4173509693" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3779821703" seo="true" mt="1498685589924" redirect="true"/>
+    <file name="index.html" crc="126777240" seo="true" mt="1498686882809" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3878632046" seo="true" mt="1498686509639" redirect="true"/>
+  <file name="index.html" crc="131367227" seo="true" mt="1498686899616" redirect="true"/>
 </manifest>
