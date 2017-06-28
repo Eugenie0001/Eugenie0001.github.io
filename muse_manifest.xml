@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566601137107">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498678958689">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="4229805598" ref="index"/>
+    <file name="index.css" crc="4113750296" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -89,14 +89,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="кнопка-канцелярская-4_2x.png" crc="48729373" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="эскиз компьютер компьютер телефон 1288x249_2x.jpg" crc="3948333370" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -365,6 +357,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскиз компьютер компьютер телефон 1288x249_2x.jpg" crc="3948333370" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u14571-5.png" crc="116179031" ref="phone>index"/>
     <file name="u14571-5_2x.png" crc="4255848411" ref="phone>index"/>
     <file name="u5416.png" crc="4249034072" ref="phone>index"/>
@@ -387,6 +387,12 @@
     <file name="u5424_2x.png" crc="257418191" ref="phone>index"/>
     <file name="u5424-r.png" crc="3812470625" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="353474723" ref="phone>index"/>
+    <file name="u46411-42.png" crc="230948888" ref="phone>index"/>
+    <file name="u46411-4_2x2.png" crc="4266561652" ref="phone>index"/>
+    <file name="u54872-4.png" crc="3809296593" ref="phone>index"/>
+    <file name="u54872-4_2x.png" crc="384128602" ref="phone>index"/>
+    <file name="u54948-4.png" crc="313829025" ref="phone>index"/>
+    <file name="u54948-4_2x.png" crc="73569984" ref="phone>index"/>
     <file name="замок 553x53.jpg" crc="4192398492" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -447,12 +453,6 @@
     <file name="u5424_2x2.png" crc="3995102956" ref="phone>index"/>
     <file name="u5424-r2.png" crc="443455750" ref="phone>index"/>
     <file name="u5424-r_2x2.png" crc="174568323" ref="phone>index"/>
-    <file name="u46411-42.png" crc="230948888" ref="phone>index"/>
-    <file name="u46411-4_2x2.png" crc="4266561652" ref="phone>index"/>
-    <file name="u54872-4.png" crc="3809296593" ref="phone>index"/>
-    <file name="u54872-4_2x.png" crc="384128602" ref="phone>index"/>
-    <file name="u54948-4.png" crc="313829025" ref="phone>index"/>
-    <file name="u54948-4_2x.png" crc="73569984" ref="phone>index"/>
     <file name="u30445-72.png" crc="3814460132" ref="phone>index"/>
     <file name="u30445-7_2x2.png" crc="4180008675" ref="phone>index"/>
     <file name="visa 373x45.png" crc="462071712" seo="true" ref="phone>index">
@@ -623,12 +623,6 @@
     <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -645,6 +639,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4266546142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="замок 5.jpg" crc="3859064128" seo="true" ref="index">
@@ -899,10 +899,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3807819122" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4104249869" ref="phone>index"/>
+      <file name="index.css" crc="341279841" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3987300099" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="434123921" seo="true" mt="1566600971973" redirect="true"/>
+    <file name="index.html" crc="4048724426" seo="true" mt="1498678861262" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3891701343" seo="true" mt="1566597918560" redirect="true"/>
+  <file name="index.html" crc="40998860" seo="true" mt="1498678815573" redirect="true"/>
 </manifest>
