@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498689701143">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498757113562">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="405079612" ref="index"/>
+    <file name="index.css" crc="4189505425" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -354,7 +354,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
@@ -625,6 +625,8 @@
     <file name="16284x215_2x.png" crc="4289107206" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u159-5.png" crc="119735570" ref="index"/>
+    <file name="u159-5_2x.png" crc="60913784" ref="index"/>
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -901,10 +903,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4158420925" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4171152677" ref="phone>index"/>
+      <file name="index.css" crc="3952315588" ref="phone>index"/>
+      <file name="nomq_index.css" crc="193129396" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3851075757" seo="true" mt="1498689624215" redirect="true"/>
+    <file name="index.html" crc="4014319914" seo="true" mt="1498689624215" redirect="true"/>
   </folder>
-  <file name="index.html" crc="12600155" seo="true" mt="1498689089630" redirect="true"/>
+  <file name="index.html" crc="370873395" seo="true" mt="1498757016019" redirect="true"/>
 </manifest>
