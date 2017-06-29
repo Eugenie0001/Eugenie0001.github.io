@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498695495246">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498734323500">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="446415717" ref="index"/>
+    <file name="index.css" crc="414835422" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -209,10 +209,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1345x186.png" crc="446134962" seo="true" ref="phone>index">
+    <file name="изображение-для-моего-landing---округлость-1.png" crc="17578224" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1345x186_2x.png" crc="504432129" seo="true" ref="phone>index">
+    <file name="изображение-для-моего-landing---округлость-1_2x.png" crc="43819413" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u30445-7.png" crc="220617828" ref="phone>index"/>
@@ -241,11 +242,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="master 278x46.png" crc="283321483" seo="true" ref="phone>index">
+    <file name="master 278x46.png" crc="4033045696" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="master 278x46_2x.png" crc="358365659" seo="true" ref="phone>index">
+    <file name="master 278x46_2x.png" crc="3860267164" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -268,7 +269,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
@@ -321,10 +322,7 @@
     </file>
     <file name="u6089-62.png" crc="363062847" ref="phone>index"/>
     <file name="u6089-6_2x2.png" crc="4280825557" ref="phone>index"/>
-    <file name="изображение-для-моего-landing---округлость-1344x186.png" crc="257847843" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="изображение-для-моего-landing---округлость-1344x186_2x.png" crc="43819413" seo="true" ref="phone>index">
+    <file name="изображение-для-моего-landing---округлость-1344x186.png" crc="148581471" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u54032.png" crc="4061224753" ref="phone>index"/>
@@ -447,8 +445,8 @@
     <file name="16284x215_2x.png" crc="4289107206" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u159-5.png" crc="525627813" ref="index"/>
-    <file name="u159-5_2x.png" crc="79143306" ref="index"/>
+    <file name="u159-8.png" crc="202765259" ref="index"/>
+    <file name="u159-8_2x.png" crc="36267480" ref="index"/>
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -568,12 +566,6 @@
     <file name="16_2x.png" crc="69509936" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1.png" crc="4227929242" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="изображение-для-моего-landing---округлость-1_2x.png" crc="3830131709" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="письмо 3.png" crc="258229551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -583,22 +575,22 @@
     <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="еда_11.jpg" crc="4061749203" seo="true" ref="index">
+    <file name="еда_11.jpg" crc="4098351740" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="еда_11_2x.jpg" crc="4115641608" seo="true" ref="index">
+    <file name="еда_11_2x.jpg" crc="3925934807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="visa 2.jpg" crc="76507793" seo="true" ref="index">
+    <file name="visa 2.jpg" crc="3818846566" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="visa 2_2x.jpg" crc="443942061" seo="true" ref="index">
+    <file name="visa 2_2x.jpg" crc="260158284" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="master 2.png" crc="3916277099" seo="true" ref="index">
+    <file name="master 2.png" crc="3781553292" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="master 2_2x.png" crc="4038762532" seo="true" ref="index">
+    <file name="master 2_2x.png" crc="4201866410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1013.png" crc="4147075457" ref="index"/>
@@ -636,10 +628,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="291010569" ref="phone>index"/>
-      <file name="nomq_index.css" crc="43996744" ref="phone>index"/>
+      <file name="index.css" crc="348606485" ref="phone>index"/>
+      <file name="nomq_index.css" crc="265707312" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="317656832" seo="true" redirect="true"/>
+    <file name="index.html" crc="104755772" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="25914739" seo="true" mt="1498695389782" redirect="true"/>
+  <file name="index.html" crc="4050883559" seo="true" mt="1498734171476" redirect="true"/>
 </manifest>
