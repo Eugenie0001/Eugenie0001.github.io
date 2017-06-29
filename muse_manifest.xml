@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498693854357">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498728045981">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
     <file name="index.css" crc="533480507" ref="index"/>
@@ -49,8 +49,8 @@
     <file name="оформление сайта 1324x204.jpg" crc="242159656" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="часы-без-стрелок-5-u47712.png" crc="397228407" ref="phone>index"/>
-    <file name="часы-без-стрелок-5-u47712_2x.png" crc="114450656" ref="phone>index"/>
+    <file name="часы-без-стрелок-5e-u47712.png" crc="4089080490" ref="phone>index"/>
+    <file name="часы-без-стрелок-5e-u47712_2x.png" crc="93585536" ref="phone>index"/>
     <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -230,11 +230,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="карта пластиколвая 5.jpg" crc="3940497773" seo="true" ref="phone>index">
+    <file name="карта-пластиколвая-5w.jpg" crc="342251139" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="карта пластиколвая 5_2x.jpg" crc="236489678" seo="true" ref="phone>index">
+    <file name="карта-пластиколвая-5w_2x.jpg" crc="3851185230" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -265,7 +265,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
@@ -346,8 +346,8 @@
     </file>
     <file name="u14571-52.png" crc="116179031" ref="phone>index"/>
     <file name="u14571-5_2x2.png" crc="4255848411" ref="phone>index"/>
-    <file name="часы-без-стрелок-5-u477122.png" crc="3865618971" ref="phone>index"/>
-    <file name="часы-без-стрелок-5-u47712_2x2.png" crc="4212421922" ref="phone>index"/>
+    <file name="часы-без-стрелок-5e-u477122.png" crc="3884326115" ref="phone>index"/>
+    <file name="часы-без-стрелок-5e-u47712_2x2.png" crc="466716945" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
     <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
@@ -601,10 +601,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3893270506" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4046056540" ref="phone>index"/>
+      <file name="index.css" crc="159917997" ref="phone>index"/>
+      <file name="nomq_index.css" crc="273579985" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4096086581" seo="true" mt="1498693831714" redirect="true"/>
+    <file name="index.html" crc="3817422442" seo="true" mt="1498727989752" redirect="true"/>
   </folder>
   <file name="index.html" crc="332577667" seo="true" mt="1498692415813" redirect="true"/>
 </manifest>
