@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559684989677">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559685929221">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="268749526" ref="index"/>
+    <file name="index.css" crc="312739819" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -56,5 +56,5 @@
     <file name="u348.png" crc="4197687569" ref="index"/>
     <file name="u348-r.png" crc="3892845202" ref="index"/>
   </folder>
-  <file name="index.html" crc="4248109486" seo="true" mt="1559684964856" redirect="true"/>
+  <file name="index.html" crc="3796841735" seo="true" mt="1559685333339" redirect="true"/>
 </manifest>
