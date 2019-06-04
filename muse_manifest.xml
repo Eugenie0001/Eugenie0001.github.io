@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://roesch.ml" resolutions="1x" timestamp="1498806851858">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="425979470" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
+    <file name="для-landing-сайта-bussines-(before---after-slider)-2.png" crc="4252081864" seo="true" mt="1498805816000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="домашняя-favicon.ico" crc="3826413213" ref="index"/>
+    <file name="road.jpg" crc="160575141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="376697727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="516951904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4176701689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="виджет для погоды оформление 1.png" crc="4230274878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение для моего landing сайта.png" crc="242653723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="значок телефона 2.png" crc="272412678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u346.png" crc="3759057345" ref="index"/>
+    <file name="u346-r.png" crc="285183658" ref="index"/>
+    <file name="u344.png" crc="3980388346" ref="index"/>
+    <file name="u344-r.png" crc="3947323482" ref="index"/>
+    <file name="u340.png" crc="4280497610" ref="index"/>
+    <file name="u340-r.png" crc="55006128" ref="index"/>
+    <file name="u342.png" crc="4210508457" ref="index"/>
+    <file name="u342-r.png" crc="266690172" ref="index"/>
+    <file name="u342-m.png" crc="518886938" ref="index"/>
+    <file name="u348.png" crc="4197687569" ref="index"/>
+    <file name="u348-r.png" crc="3892845202" ref="index"/>
+  </folder>
+  <file name="index.html" crc="366917229" seo="true" mt="1498806627027" redirect="true"/>
+</manifest>
