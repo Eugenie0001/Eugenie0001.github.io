@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559688845806">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559690390519">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="51917243" ref="index"/>
@@ -222,10 +222,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="511782668" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4108927949" ref="phone>index"/>
+      <file name="index.css" crc="40200185" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4240589657" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="439972960" seo="true" mt="1559688822910" redirect="true"/>
+    <file name="index.html" crc="3934391729" seo="true" mt="1559690368179" redirect="true"/>
   </folder>
   <file name="index.html" crc="3925707531" seo="true" redirect="true"/>
 </manifest>
