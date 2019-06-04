@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559681099126">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559681225518">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4173754793" ref="index"/>
@@ -39,8 +39,10 @@
     </file>
     <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4176701689" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="замок 5.jpg" crc="264931858" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="477331667" seo="true" ref="phone>index">
@@ -48,10 +50,12 @@
     </file>
     <file name="green gardens of ural.png" crc="4150766367" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="4061224753" ref="phone>index"/>
     <file name="u5403-r.png" crc="369474222" ref="phone>index"/>
     <file name="полоска-вертикальная-анимация-2.gif" crc="430208075" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5416.png" crc="4151813484" ref="phone>index"/>
@@ -102,7 +106,7 @@
     <folder name="css">
       <file name="index.css" crc="132486742" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="363915882" seo="true" mt="1559681090560" redirect="true"/>
+    <file name="index.html" crc="511128615" seo="true" mt="1559681217919" redirect="true"/>
   </folder>
   <file name="index.html" crc="3943707280" seo="true" mt="1559680072543" redirect="true"/>
 </manifest>
