@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559681831109">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559682204959">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4173754793" ref="index"/>
@@ -21,25 +21,20 @@
     <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
     <file name="u5352-6.png" crc="4145636492" ref="phone>index"/>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="оформление сайта 2325x209.jpg" crc="40042814" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7327x211.png" crc="37951693" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4176701689" seo="true" ref="phone>index:index">
@@ -51,7 +46,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="477331667" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="green gardens of ural.png" crc="4150766367" seo="true" ref="phone>index:index">
@@ -107,28 +101,12 @@
     <file name="u342-m.png" crc="3976269443" ref="index"/>
     <file name="u348.png" crc="409082180" ref="index"/>
     <file name="u348-r.png" crc="477860890" ref="index"/>
-    <file name="u5352-62.png" crc="4145636492" ref="phone>index"/>
-    <file name="u54032.png" crc="4061224753" ref="phone>index"/>
-    <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
-    <file name="u54162.png" crc="4151813484" ref="phone>index"/>
-    <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
-    <file name="u54182.png" crc="3838435488" ref="phone>index"/>
-    <file name="u5418-r2.png" crc="306033550" ref="phone>index"/>
-    <file name="u54202.png" crc="168568487" ref="phone>index"/>
-    <file name="u5420-r2.png" crc="3881352031" ref="phone>index"/>
-    <file name="u54222.png" crc="4038857338" ref="phone>index"/>
-    <file name="u5422-r2.png" crc="347097932" ref="phone>index"/>
-    <file name="u5422-m2.png" crc="4153149407" ref="phone>index"/>
-    <file name="u54242.png" crc="4188849016" ref="phone>index"/>
-    <file name="u5424-r2.png" crc="328032192" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="342307567" ref="phone>index"/>
-      <file name="nomq_index.css" crc="248008612" ref="phone>index"/>
+      <file name="index.css" crc="525347811" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3908783591" seo="true" mt="1559681818535" redirect="true"/>
+    <file name="index.html" crc="105282624" seo="true" mt="1559682201332" redirect="true"/>
   </folder>
   <file name="index.html" crc="3943707280" seo="true" mt="1559680072543" redirect="true"/>
 </manifest>
