@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559687975136">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559688767708">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="265541516" ref="index"/>
+    <file name="index.css" crc="3937305112" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -20,6 +20,7 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="домашняя-favicon.ico" crc="3826413213" ref="index"/>
     <file name="u155-5.png" crc="118867979" ref="index"/>
     <file name="оформление сайта 1.jpg" crc="3759520450" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -27,7 +28,6 @@
     <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u213-6.png" crc="91399322" ref="index"/>
     <file name="оформление сайта 3.jpg" crc="3846017187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -60,5 +60,5 @@
     <file name="u348.png" crc="4197687569" ref="index"/>
     <file name="u348-r.png" crc="3892845202" ref="index"/>
   </folder>
-  <file name="index.html" crc="453176268" seo="true" mt="1559687950394" redirect="true"/>
+  <file name="index.html" crc="5614961" seo="true" mt="1559688751946" redirect="true"/>
 </manifest>
