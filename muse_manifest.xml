@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559685076103">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559685330776">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4173754793" ref="index"/>
+    <file name="index.css" crc="51917243" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -26,7 +26,13 @@
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
     <file name="u5352-6.png" crc="4094300517" ref="phone>index"/>
+    <file name="u5352-6_2x.png" crc="493481629" ref="phone>index"/>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price330x232_2x.jpg" crc="40848207" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -41,84 +47,157 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="в слайд шоу 7327x211.png" crc="37951693" seo="true" ref="phone>index">
+    <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4176701689" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="замок 5.jpg" crc="264931858" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
+    <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="477331667" seo="true" ref="phone>index">
+    <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="green gardens of ural.png" crc="4150766367" seo="true" ref="phone>index:index">
+    <file name="эскиз компьютер компьютер телефон 1288x249_2x.jpg" crc="3948333370" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 553x53.jpg" crc="4192398492" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 553x53_2x.jpg" crc="3935600037" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="3999294996" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191_2x.png" crc="144950199" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green gardens of ural122x11.png" crc="4155625638" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green gardens of ural122x11_2x.png" crc="4220065003" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="4061224753" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r.png" crc="369474222" ref="phone>index"/>
+    <file name="u5403-r_2x.png" crc="4165680433" ref="phone>index"/>
     <file name="полоска-вертикальная-анимация-2.gif" crc="430208075" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="полоска-вертикальная-анимация-2_2x.gif" crc="430208075" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u5416.png" crc="4151813484" ref="phone>index"/>
+    <file name="u5416_2x.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r.png" crc="162604582" ref="phone>index"/>
+    <file name="u5416-r_2x.png" crc="59628931" ref="phone>index"/>
     <file name="u5418.png" crc="3838435488" ref="phone>index"/>
+    <file name="u5418_2x.png" crc="359170288" ref="phone>index"/>
     <file name="u5418-r.png" crc="306033550" ref="phone>index"/>
+    <file name="u5418-r_2x.png" crc="133192621" ref="phone>index"/>
     <file name="u5420.png" crc="168568487" ref="phone>index"/>
+    <file name="u5420_2x.png" crc="3938177974" ref="phone>index"/>
     <file name="u5420-r.png" crc="3881352031" ref="phone>index"/>
+    <file name="u5420-r_2x.png" crc="511551341" ref="phone>index"/>
     <file name="u5422.png" crc="4038857338" ref="phone>index"/>
+    <file name="u5422_2x.png" crc="3895122923" ref="phone>index"/>
     <file name="u5422-r.png" crc="347097932" ref="phone>index"/>
+    <file name="u5422-r_2x.png" crc="182207358" ref="phone>index"/>
     <file name="u5422-m.png" crc="4153149407" ref="phone>index"/>
+    <file name="u5422-m_2x.png" crc="3784105053" ref="phone>index"/>
     <file name="u5424.png" crc="4188849016" ref="phone>index"/>
+    <file name="u5424_2x.png" crc="92693371" ref="phone>index"/>
     <file name="u5424-r.png" crc="328032192" ref="phone>index"/>
+    <file name="u5424-r_2x.png" crc="383913084" ref="phone>index"/>
     <file name="u5352-62.png" crc="4094300517" ref="phone>index"/>
+    <file name="u5352-6_2x2.png" crc="493481629" ref="phone>index"/>
     <file name="u54032.png" crc="4061224753" ref="phone>index"/>
+    <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
+    <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
+    <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
+    <file name="u5416-r_2x2.png" crc="59628931" ref="phone>index"/>
     <file name="u54182.png" crc="3838435488" ref="phone>index"/>
+    <file name="u5418_2x2.png" crc="359170288" ref="phone>index"/>
     <file name="u5418-r2.png" crc="306033550" ref="phone>index"/>
+    <file name="u5418-r_2x2.png" crc="133192621" ref="phone>index"/>
     <file name="u54202.png" crc="168568487" ref="phone>index"/>
+    <file name="u5420_2x2.png" crc="3938177974" ref="phone>index"/>
     <file name="u5420-r2.png" crc="3881352031" ref="phone>index"/>
+    <file name="u5420-r_2x2.png" crc="511551341" ref="phone>index"/>
     <file name="u54222.png" crc="4038857338" ref="phone>index"/>
+    <file name="u5422_2x2.png" crc="3895122923" ref="phone>index"/>
     <file name="u5422-r2.png" crc="347097932" ref="phone>index"/>
+    <file name="u5422-r_2x2.png" crc="182207358" ref="phone>index"/>
     <file name="u5422-m2.png" crc="4153149407" ref="phone>index"/>
+    <file name="u5422-m_2x2.png" crc="3784105053" ref="phone>index"/>
     <file name="u54242.png" crc="4188849016" ref="phone>index"/>
+    <file name="u5424_2x2.png" crc="92693371" ref="phone>index"/>
     <file name="u5424-r2.png" crc="328032192" ref="phone>index"/>
+    <file name="u5424-r_2x2.png" crc="383913084" ref="phone>index"/>
     <file name="u5352-63.png" crc="4094300517" ref="phone>index"/>
+    <file name="u5352-6_2x3.png" crc="493481629" ref="phone>index"/>
     <file name="u54033.png" crc="4061224753" ref="phone>index"/>
+    <file name="u5403_2x3.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r3.png" crc="369474222" ref="phone>index"/>
+    <file name="u5403-r_2x3.png" crc="4165680433" ref="phone>index"/>
     <file name="u54163.png" crc="4151813484" ref="phone>index"/>
+    <file name="u5416_2x3.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r3.png" crc="162604582" ref="phone>index"/>
+    <file name="u5416-r_2x3.png" crc="59628931" ref="phone>index"/>
     <file name="u54183.png" crc="3838435488" ref="phone>index"/>
+    <file name="u5418_2x3.png" crc="359170288" ref="phone>index"/>
     <file name="u5418-r3.png" crc="306033550" ref="phone>index"/>
+    <file name="u5418-r_2x3.png" crc="133192621" ref="phone>index"/>
     <file name="u54203.png" crc="168568487" ref="phone>index"/>
+    <file name="u5420_2x3.png" crc="3938177974" ref="phone>index"/>
     <file name="u5420-r3.png" crc="3881352031" ref="phone>index"/>
+    <file name="u5420-r_2x3.png" crc="511551341" ref="phone>index"/>
     <file name="u54223.png" crc="4038857338" ref="phone>index"/>
+    <file name="u5422_2x3.png" crc="3895122923" ref="phone>index"/>
     <file name="u5422-r3.png" crc="347097932" ref="phone>index"/>
+    <file name="u5422-r_2x3.png" crc="182207358" ref="phone>index"/>
     <file name="u5422-m3.png" crc="4153149407" ref="phone>index"/>
+    <file name="u5422-m_2x3.png" crc="3784105053" ref="phone>index"/>
     <file name="u54243.png" crc="4188849016" ref="phone>index"/>
+    <file name="u5424_2x3.png" crc="92693371" ref="phone>index"/>
     <file name="u5424-r3.png" crc="328032192" ref="phone>index"/>
+    <file name="u5424-r_2x3.png" crc="383913084" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="u155-5.png" crc="118867979" ref="index"/>
-    <file name="в слайд шоу 7.png" crc="512846063" seo="true" ref="index">
+    <file name="u155-5_2x.png" crc="4257075386" ref="index"/>
+    <file name="в слайд шоу 7.png" crc="378149931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7_2x.png" crc="3859349063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="оформление сайта 1.jpg" crc="3759520450" seo="true" ref="index">
@@ -130,32 +209,63 @@
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="виджет для погоды оформление 1.png" crc="4230274878" seo="true" ref="index">
+    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4266546142" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3.png" crc="146498811" seo="true" ref="index">
+    <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1013.png" crc="3819780305" ref="index"/>
-    <file name="u1013-r.png" crc="18635620" ref="index"/>
+    <file name="замок 5.jpg" crc="3859064128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 5_2x.jpg" crc="4120990903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3.png" crc="339418975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3_2x.png" crc="418404241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green gardens of ural.png" crc="3792607648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green gardens of ural_2x.png" crc="4074814151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1013.png" crc="4147075457" ref="index"/>
+    <file name="u1013_2x.png" crc="176276132" ref="index"/>
+    <file name="u1013-r.png" crc="487125187" ref="index"/>
+    <file name="u1013-r_2x.png" crc="4278242838" ref="index"/>
     <file name="u346.png" crc="3895868138" ref="index"/>
+    <file name="u346_2x.png" crc="140532904" ref="index"/>
     <file name="u346-r.png" crc="491960626" ref="index"/>
+    <file name="u346-r_2x.png" crc="3830413134" ref="index"/>
     <file name="u344.png" crc="504375253" ref="index"/>
+    <file name="u344_2x.png" crc="3847617264" ref="index"/>
     <file name="u344-r.png" crc="4130462751" ref="index"/>
+    <file name="u344-r_2x.png" crc="395488729" ref="index"/>
     <file name="u340.png" crc="3912808265" ref="index"/>
+    <file name="u340_2x.png" crc="329624868" ref="index"/>
     <file name="u340-r.png" crc="4093944308" ref="index"/>
+    <file name="u340-r_2x.png" crc="506485613" ref="index"/>
     <file name="u342.png" crc="4034806357" ref="index"/>
+    <file name="u342_2x.png" crc="129583563" ref="index"/>
     <file name="u342-r.png" crc="4027260024" ref="index"/>
+    <file name="u342-r_2x.png" crc="93025187" ref="index"/>
     <file name="u342-m.png" crc="3976269443" ref="index"/>
+    <file name="u342-m_2x.png" crc="4159628213" ref="index"/>
     <file name="u348.png" crc="409082180" ref="index"/>
+    <file name="u348_2x.png" crc="172611011" ref="index"/>
     <file name="u348-r.png" crc="477860890" ref="index"/>
+    <file name="u348-r_2x.png" crc="376799914" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3814803196" ref="phone>index"/>
-      <file name="nomq_index.css" crc="282578192" ref="phone>index"/>
+      <file name="index.css" crc="450697758" ref="phone>index"/>
+      <file name="nomq_index.css" crc="268646340" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3977895003" seo="true" mt="1559685061084" redirect="true"/>
+    <file name="index.html" crc="67964999" seo="true" redirect="true" mt="1559685284830"/>
   </folder>
-  <file name="index.html" crc="3943707280" seo="true" mt="1559680072543" redirect="true"/>
+  <file name="index.html" crc="3925707531" seo="true" redirect="true"/>
 </manifest>
