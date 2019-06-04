@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559678856983">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559679069073">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="368541346" ref="index"/>
@@ -6,69 +6,22 @@
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
     <file name="для-landing-сайта-bussines-(before---after-slider)-2.png" crc="4252081864" seo="true" mt="1498805816000"/>
-    <file name="mobile-1.png" crc="267211074" seo="true" mt="1559692757000"/>
-    <file name="mobile-2.png" crc="3802391686" seo="true" mt="1559692729000"/>
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
-    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="u5352-5.png" crc="92754280" ref="phone>index"/>
-    <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="оформление сайта 2325x209.jpg" crc="40042814" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="в слайд шоу 7327x211.png" crc="37951693" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4176701689" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="замок 5.jpg" crc="264931858" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="477331667" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="green gardens of ural.png" crc="4150766367" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u5403.png" crc="4061224753" ref="phone>index"/>
-    <file name="u5403-r.png" crc="369474222" ref="phone>index"/>
-    <file name="полоска-вертикальная-анимация-2.gif" crc="430208075" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u5416.png" crc="4151813484" ref="phone>index"/>
-    <file name="u5416-r.png" crc="162604582" ref="phone>index"/>
-    <file name="u5418.png" crc="3838435488" ref="phone>index"/>
-    <file name="u5418-r.png" crc="306033550" ref="phone>index"/>
-    <file name="u5420.png" crc="168568487" ref="phone>index"/>
-    <file name="u5420-r.png" crc="3881352031" ref="phone>index"/>
-    <file name="u5422.png" crc="4038857338" ref="phone>index"/>
-    <file name="u5422-r.png" crc="347097932" ref="phone>index"/>
-    <file name="u5422-m.png" crc="4153149407" ref="phone>index"/>
-    <file name="u5424.png" crc="4188849016" ref="phone>index"/>
-    <file name="u5424-r.png" crc="328032192" ref="phone>index"/>
+    <file name="landing-favicon.ico" crc="3826413213" ref="index"/>
     <file name="u155-5.png" crc="118867979" ref="index"/>
     <file name="в слайд шоу 7.png" crc="512846063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -82,10 +35,22 @@
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="полоска-вертикальная-анимация-2.gif" crc="430208075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4176701689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="виджет для погоды оформление 1.png" crc="4230274878" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="замок 5.jpg" crc="264931858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3.png" crc="146498811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green gardens of ural.png" crc="4150766367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1013.png" crc="3819780305" ref="index"/>
@@ -102,11 +67,5 @@
     <file name="u348.png" crc="4040047809" ref="index"/>
     <file name="u348-r.png" crc="3988322136" ref="index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="3776771533" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4283333984" seo="true" mt="1559678838224" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="6308866" seo="true" redirect="true"/>
+  <file name="index.html" crc="485335233" seo="true" mt="1559679057519" redirect="true"/>
 </manifest>
