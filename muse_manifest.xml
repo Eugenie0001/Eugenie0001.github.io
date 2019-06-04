@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://roesch.ml" resolutions="1x" timestamp="1498779797039">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1498781712142">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4021763697" ref="index"/>
-    <file name="nomq_index.css" crc="3833229602" ref="index"/>
+    <file name="index.css" crc="325886482" ref="index"/>
+    <file name="nomq_index.css" crc="4120881669" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -75,5 +75,5 @@
     <file name="u348-r2.png" crc="3892845202" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="334684572" seo="true" mt="1498779779145" redirect="true"/>
+  <file name="index.html" crc="3952985110" seo="true" mt="1498781654128" redirect="true"/>
 </manifest>
