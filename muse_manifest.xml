@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559682948810">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559683027791">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4173754793" ref="index"/>
@@ -23,7 +23,6 @@
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
     <file name="u5352-6.png" crc="4145636492" ref="phone>index"/>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -69,6 +68,7 @@
     <file name="u5422-m.png" crc="4153149407" ref="phone>index"/>
     <file name="u5424.png" crc="4188849016" ref="phone>index"/>
     <file name="u5424-r.png" crc="328032192" ref="phone>index"/>
+    <file name="landing-favicon.ico" crc="3826413213" ref="index"/>
     <file name="u155-5.png" crc="118867979" ref="index"/>
     <file name="в слайд шоу 7.png" crc="512846063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -104,9 +104,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="60438726" ref="phone>index"/>
+      <file name="index.css" crc="114896657" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="175100198" seo="true" mt="1559682940924" redirect="true"/>
+    <file name="index.html" crc="534745383" seo="true" mt="1559683001903" redirect="true"/>
   </folder>
   <file name="index.html" crc="3943707280" seo="true" mt="1559680072543" redirect="true"/>
 </manifest>
