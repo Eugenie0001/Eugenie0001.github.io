@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1498781712142">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x" timestamp="1559678324623">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="325886482" ref="index"/>
-    <file name="nomq_index.css" crc="4120881669" ref="index"/>
+    <file name="index.css" crc="465600272" ref="index"/>
+    <file name="nomq_index.css" crc="3977113456" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -22,7 +22,8 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="домашняя-favicon.ico" crc="3826413213" ref="index"/>
+    <file name="домашняя-favicon.ico" crc="4122840000" ref="index"/>
+    <file name="u155-5.png" crc="118867979" ref="index"/>
     <file name="road.jpg" crc="160575141" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -43,14 +44,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение для моего landing сайта.png" crc="242653723" seo="true" ref="index">
+    <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3.png" crc="146498811" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="значок телефона 2.png" crc="272412678" seo="true" ref="index">
+    <file name="green gardens of ural.png" crc="4150766367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u1013.png" crc="3819780305" ref="index"/>
+    <file name="u1013-r.png" crc="18635620" ref="index"/>
     <file name="u346.png" crc="3759057345" ref="index"/>
     <file name="u346-r.png" crc="285183658" ref="index"/>
     <file name="u344.png" crc="3980388346" ref="index"/>
@@ -62,6 +65,9 @@
     <file name="u342-m.png" crc="518886938" ref="index"/>
     <file name="u348.png" crc="4197687569" ref="index"/>
     <file name="u348-r.png" crc="3892845202" ref="index"/>
+    <file name="u155-52.png" crc="118867979" ref="index"/>
+    <file name="u10132.png" crc="3819780305" ref="index"/>
+    <file name="u1013-r2.png" crc="18635620" ref="index"/>
     <file name="u3462.png" crc="3759057345" ref="index"/>
     <file name="u346-r2.png" crc="285183658" ref="index"/>
     <file name="u3442.png" crc="3980388346" ref="index"/>
@@ -75,5 +81,5 @@
     <file name="u348-r2.png" crc="3892845202" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3952985110" seo="true" mt="1498781654128" redirect="true"/>
+  <file name="index.html" crc="4126339914" seo="true" mt="1559678317008" redirect="true"/>
 </manifest>
