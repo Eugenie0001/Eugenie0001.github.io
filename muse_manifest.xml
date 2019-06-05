@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559690390519">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559700804009">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="51917243" ref="index"/>
+    <file name="index.css" crc="137298575" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -25,8 +25,8 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="u5352-6.png" crc="4094300517" ref="phone>index"/>
-    <file name="u5352-6_2x.png" crc="493481629" ref="phone>index"/>
+    <file name="u5352-6.png" crc="3864799334" ref="phone>index"/>
+    <file name="u5352-6_2x.png" crc="4269533221" ref="phone>index"/>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -95,6 +95,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u12808-4.png" crc="414504024" ref="phone>index"/>
+    <file name="u12808-4_2x.png" crc="4005012806" ref="phone>index"/>
     <file name="u5416.png" crc="4249034072" ref="phone>index"/>
     <file name="u5416_2x.png" crc="41868737" ref="phone>index"/>
     <file name="u5416-r.png" crc="4005258471" ref="phone>index"/>
@@ -117,8 +119,8 @@
     <file name="u5424_2x.png" crc="348972699" ref="phone>index"/>
     <file name="u5424-r.png" crc="4025047521" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="245737378" ref="phone>index"/>
-    <file name="u5352-62.png" crc="4094300517" ref="phone>index"/>
-    <file name="u5352-6_2x2.png" crc="493481629" ref="phone>index"/>
+    <file name="u5352-62.png" crc="3864799334" ref="phone>index"/>
+    <file name="u5352-6_2x2.png" crc="4269533221" ref="phone>index"/>
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="3999294996" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -129,6 +131,8 @@
     <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
     <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
+    <file name="u12808-42.png" crc="414504024" ref="phone>index"/>
+    <file name="u12808-4_2x2.png" crc="4005012806" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
     <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
@@ -222,10 +226,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="40200185" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4240589657" ref="phone>index"/>
+      <file name="index.css" crc="429248827" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3769228339" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3934391729" seo="true" mt="1559690368179" redirect="true"/>
+    <file name="index.html" crc="223890127" seo="true" mt="1559700616011" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3925707531" seo="true" redirect="true"/>
+  <file name="index.html" crc="3864358114" seo="true" redirect="true"/>
 </manifest>
