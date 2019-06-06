@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559807046404">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559780531115">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3928963778" ref="index"/>
+    <file name="index.css" crc="4078014167" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -34,6 +34,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u5352-7.png" crc="4030309258" ref="phone>index"/>
+    <file name="u5352-7_2x.png" crc="32279029" ref="phone>index"/>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -46,14 +48,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="оформление сайта 2325x209.jpg" crc="40042814" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="в слайд шоу 7325x209.png" crc="4218914858" seo="true" ref="phone>index">
+    <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="в слайд шоу 7325x209_2x.png" crc="4236012545" seo="true" ref="phone>index">
+    <file name="в слайд шоу 7324x208.png" crc="4104204395" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7324x208_2x.png" crc="4051950283" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 08.gif" crc="9798183" seo="true" ref="phone>index">
@@ -98,12 +99,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="роспись 4.png" crc="4036527096" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="роспись 4_2x.png" crc="133031820" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
     <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
-    <file name="u5352-7.png" crc="186502118" ref="phone>index"/>
-    <file name="u5352-7_2x.png" crc="4145192886" ref="phone>index"/>
     <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -130,6 +137,9 @@
     <file name="u5424_2x.png" crc="348972699" ref="phone>index"/>
     <file name="u5424-r.png" crc="4025047521" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="245737378" ref="phone>index"/>
+    <file name="оригинальные сайты 1317x204.jpg" crc="3891397444" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -152,8 +162,8 @@
     <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
     <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
-    <file name="u5352-72.png" crc="275809185" ref="phone>index"/>
-    <file name="u5352-7_2x2.png" crc="3877335053" ref="phone>index"/>
+    <file name="u5352-72.png" crc="3807465975" ref="phone>index"/>
+    <file name="u5352-7_2x2.png" crc="359938312" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
     <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
@@ -256,10 +266,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="401964967" ref="phone>index"/>
-      <file name="nomq_index.css" crc="45956746" ref="phone>index"/>
+      <file name="index.css" crc="310624198" ref="phone>index"/>
+      <file name="nomq_index.css" crc="387465732" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3906149240" seo="true" mt="1559807018896" redirect="true"/>
+    <file name="index.html" crc="3870274340" seo="true" mt="1559780506404" redirect="true"/>
   </folder>
-  <file name="index.html" crc="79058898" seo="true" mt="1559770595176" redirect="true"/>
+  <file name="index.html" crc="368408491" seo="true" redirect="true"/>
 </manifest>
