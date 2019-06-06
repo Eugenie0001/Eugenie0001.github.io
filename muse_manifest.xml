@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559786344488">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559786815557">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="134040119" ref="index"/>
+    <file name="index.css" crc="4160604403" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -215,12 +215,6 @@
     <file name="белка.gif" crc="4176785329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="загрузка 02.gif" crc="4270251559" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="загрузка 02_2x.gif" crc="4270251559" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="green gardens of ural.png" crc="3792607648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -273,5 +267,5 @@
     </folder>
     <file name="index.html" crc="358051861" seo="true" mt="1559786300294" redirect="true"/>
   </folder>
-  <file name="index.html" crc="512729730" seo="true" mt="1559783643047" redirect="true"/>
+  <file name="index.html" crc="3983624494" seo="true" mt="1559786777034" redirect="true"/>
 </manifest>
