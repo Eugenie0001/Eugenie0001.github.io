@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559797285922">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559799247538">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="258761093" ref="index"/>
+    <file name="index.css" crc="536011727" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -60,12 +60,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="в слайд шоу 7325x209.png" crc="4218914858" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="в слайд шоу 7325x209_2x.png" crc="4236012545" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 08.gif" crc="9798183" seo="true" ref="phone>index">
@@ -141,6 +139,12 @@
     <file name="u5424_2x.png" crc="348972699" ref="phone>index"/>
     <file name="u5424-r.png" crc="4025047521" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="245737378" ref="phone>index"/>
+    <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="замок 553x53.jpg" crc="4192398492" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -267,10 +271,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="114017805" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4258436156" ref="phone>index"/>
+      <file name="index.css" crc="169877450" ref="phone>index"/>
+      <file name="nomq_index.css" crc="348816628" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4255754951" seo="true" mt="1559797244292" redirect="true"/>
+    <file name="index.html" crc="404715843" seo="true" mt="1559799197193" redirect="true"/>
   </folder>
-  <file name="index.html" crc="302785188" seo="true" mt="1559794046397" redirect="true"/>
+  <file name="index.html" crc="326636601" seo="true" mt="1559794046397" redirect="true"/>
 </manifest>
