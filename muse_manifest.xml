@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559795729767">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559796806891">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="258761093" ref="index"/>
@@ -84,16 +84,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="замок 553x53.jpg" crc="4192398492" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="замок 553x53_2x.jpg" crc="3935600037" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="замок 539x40.jpg" crc="4108140783" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="замок 539x40_2x.jpg" crc="3998597463" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 18.gif" crc="1457334" seo="true" ref="phone>index">
@@ -121,6 +115,10 @@
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="u5352-7.png" crc="4051752675" ref="phone>index"/>
     <file name="u5352-7_2x.png" crc="351964223" ref="phone>index"/>
+    <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u5416.png" crc="4249034072" ref="phone>index"/>
     <file name="u5416_2x.png" crc="41868737" ref="phone>index"/>
     <file name="u5416-r.png" crc="4005258471" ref="phone>index"/>
@@ -143,6 +141,12 @@
     <file name="u5424_2x.png" crc="348972699" ref="phone>index"/>
     <file name="u5424-r.png" crc="4025047521" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="245737378" ref="phone>index"/>
+    <file name="замок 553x53.jpg" crc="4192398492" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 553x53_2x.jpg" crc="3935600037" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3354x191.png" crc="3999294996" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -263,10 +267,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="166734230" ref="phone>index"/>
-      <file name="nomq_index.css" crc="33787919" ref="phone>index"/>
+      <file name="index.css" crc="509626702" ref="phone>index"/>
+      <file name="nomq_index.css" crc="580295" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4091112359" seo="true" mt="1559795684577" redirect="true"/>
+    <file name="index.html" crc="476254024" seo="true" mt="1559796706940" redirect="true"/>
   </folder>
   <file name="index.html" crc="302785188" seo="true" mt="1559794046397" redirect="true"/>
 </manifest>
