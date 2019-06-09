@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560111936398">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560108886975">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4267056624" ref="index"/>
+    <file name="index.css" crc="36820225" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -115,17 +115,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="роспись 498x71.png" crc="4036527096" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="роспись 4_2x.png" crc="133031820" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
@@ -254,9 +245,6 @@
     <file name="телефон 1.png" crc="4007793223" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="роспись 4.png" crc="133031820" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="green gardens of ural.png" crc="3792607648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -292,10 +280,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4079697393" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4162986814" ref="phone>index"/>
+      <file name="index.css" crc="230927989" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3872071298" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="337998493" seo="true" mt="1560111912158" redirect="true"/>
+    <file name="index.html" crc="404000174" seo="true" mt="1560108793325" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4197761381" seo="true" mt="1560111196417" redirect="true"/>
+  <file name="index.html" crc="3922245805" seo="true" mt="1560108861988" redirect="true"/>
 </manifest>
