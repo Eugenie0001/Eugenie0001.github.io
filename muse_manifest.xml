@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560136159866">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560111220961">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4179046853" ref="index"/>
+    <file name="index.css" crc="4267056624" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -100,6 +100,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3345x186_2x.png" crc="4106571877" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perfomance 465x68.png" crc="4253874036" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perfomance 465x68_2x.png" crc="148130057" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 19.gif" crc="3768971339" seo="true" ref="phone>index:index">
@@ -240,16 +248,10 @@
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3_2x.png" crc="418404241" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="листок 1.png" crc="299994303" seo="true" ref="index">
+    <file name="perfomance 1.jpg" crc="381648102" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="листок 1_2x.png" crc="213037350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="фотоаппарат 3.png" crc="185697067" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="фотоаппарат 3_2x.png" crc="4052514064" seo="true" ref="index">
+    <file name="телефон 1.png" crc="4007793223" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="роспись 4.png" crc="133031820" seo="true" ref="index">
@@ -290,10 +292,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="461816126" ref="phone>index"/>
-      <file name="nomq_index.css" crc="489947973" ref="phone>index"/>
+      <file name="index.css" crc="4114905047" ref="phone>index"/>
+      <file name="nomq_index.css" crc="327647937" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="294728763" seo="true" mt="1560133816803" redirect="true"/>
+    <file name="index.html" crc="457883689" seo="true" mt="1560110588003" redirect="true"/>
   </folder>
-  <file name="index.html" crc="58885423" seo="true" mt="1560136129255" redirect="true"/>
+  <file name="index.html" crc="4197761381" seo="true" mt="1560111196417" redirect="true"/>
 </manifest>
