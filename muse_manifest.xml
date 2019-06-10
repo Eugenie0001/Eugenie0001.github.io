@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1559781254326">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560127910528">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4078014167" ref="index"/>
+    <file name="index.css" crc="4167203859" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -31,6 +31,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 17_2x.gif" crc="3803644744" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="параллелограмм.png" crc="53742367" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="параллелограмм_2x.png" crc="4283554233" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -99,11 +107,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="роспись 4.png" crc="4036527096" seo="true" ref="phone>index">
+    <file name="роспись 498x71.png" crc="4036527096" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="роспись 4_2x.png" crc="133031820" seo="true" ref="phone>index">
+    <file name="роспись 4_2x.png" crc="133031820" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -231,6 +240,15 @@
     <file name="изображение-для-моего-landing-сайта-3-с-полоской-внизу-3_2x.png" crc="418404241" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="листок 1.png" crc="3894885643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фотоаппарат 3.png" crc="4052514064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="роспись 4.png" crc="133031820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="green gardens of ural.png" crc="3792607648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -266,10 +284,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3920297963" ref="phone>index"/>
-      <file name="nomq_index.css" crc="339881364" ref="phone>index"/>
+      <file name="index.css" crc="4291900733" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3866452061" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4224003157" seo="true" mt="1559781087539" redirect="true"/>
+    <file name="index.html" crc="57628206" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="368408491" seo="true" redirect="true"/>
+  <file name="index.html" crc="508672626" seo="true" redirect="true"/>
 </manifest>
