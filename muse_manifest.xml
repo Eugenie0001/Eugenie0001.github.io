@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560376651193">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560380966040">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4069731621" ref="index"/>
+    <file name="index.css" crc="429162568" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -39,6 +39,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -49,9 +52,6 @@
     </file>
     <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7324x208.png" crc="4104204395" seo="true" ref="phone>index">
@@ -281,10 +281,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="29256155" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3832973660" ref="phone>index"/>
+      <file name="index.css" crc="305919780" ref="phone>index"/>
+      <file name="nomq_index.css" crc="248418728" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3825545974" seo="true" mt="1560376532746" redirect="true"/>
+    <file name="index.html" crc="293322867" seo="true" mt="1560380904842" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4071698825" seo="true" redirect="true"/>
+  <file name="index.html" crc="158787397" seo="true" mt="1560380777570" redirect="true"/>
 </manifest>
