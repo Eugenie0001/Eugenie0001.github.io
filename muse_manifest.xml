@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560381728930">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="softimage000@gmail.com" resolutions="1x,2x" timestamp="1560383212316">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="452853155" ref="index"/>
@@ -26,7 +26,7 @@
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
-    <file name="form-u20508.php" crc="4115679770" ref="index"/>
+    <file name="form-u20508.php" crc="68914444" ref="index"/>
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index:index"/>
@@ -294,5 +294,5 @@
     </folder>
     <file name="index.html" crc="4231836636" seo="true" mt="1560379845256" redirect="true"/>
   </folder>
-  <file name="index.html" crc="456473873" seo="true" mt="1560381717520" redirect="true"/>
+  <file name="index.html" crc="456473873" seo="true" mt="1560383180612" redirect="true"/>
 </manifest>
