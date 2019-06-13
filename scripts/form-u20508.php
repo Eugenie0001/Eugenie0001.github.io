@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Неизвестный метод запроса сервера'
 	),
 	'email' => array(
-		'from' => 'softimage000@gmail.com',
-		'to' => 'softimage000@gmail.com'
+		'from' => 'dfhhy88@freenom.com',
+		'to' => 'dfhhy88@freenom.com'
 	),
 	'fields' => array(
 		'custom_U20515' => array(

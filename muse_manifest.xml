@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eugenie.ml" resolutions="1x,2x" timestamp="1560384677651">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://freenom.com" resolutions="1x,2x" timestamp="1560386992512">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="452853155" ref="index"/>
+    <file name="index.css" crc="4214874240" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -22,11 +22,11 @@
     <file name="form_check.php" crc="4020933626" ref="phone>index"/>
     <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
     <file name="form_process.php" crc="37464564" ref="phone>index"/>
-    <file name="form-u20733.php" crc="214435910" ref="phone>index"/>
+    <file name="form-u20733.php" crc="208276693" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
-    <file name="form-u20508.php" crc="68914444" ref="index"/>
+    <file name="form-u20508.php" crc="217946259" ref="index"/>
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
@@ -295,10 +295,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="15229965" ref="phone>index"/>
-      <file name="nomq_index.css" crc="412231562" ref="phone>index"/>
+      <file name="index.css" crc="221900857" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3865718550" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4231836636" seo="true" mt="1560384489452" redirect="true"/>
+    <file name="index.html" crc="197573929" seo="true" mt="1560386941802" redirect="true"/>
   </folder>
-  <file name="index.html" crc="456473873" seo="true" mt="1560384507348" redirect="true"/>
+  <file name="index.html" crc="3850822526" seo="true" mt="1560386960886" redirect="true"/>
 </manifest>
