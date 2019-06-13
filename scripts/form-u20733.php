@@ -28,7 +28,7 @@ $form = array(
 	),
 	'email' => array(
 		'from' => 'dfhhy88@freenom.com',
-		'to' => 'dfhhy88@freenom.com'
+		'to' => 'dfhhy88@freenom.com,softimage000@gmail.com'
 	),
 	'fields' => array(
 		'custom_U20739' => array(
