@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560458531641">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560460203740">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3906058905" ref="index"/>
+    <file name="index.css" crc="94126786" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -128,7 +128,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
@@ -212,6 +212,9 @@
     <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="в слайд шоу 7.png" crc="4283586251" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -219,9 +222,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="оформление сайта 1.jpg" crc="3759520450" seo="true" ref="index">
@@ -283,10 +283,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3828765386" ref="phone>index"/>
-      <file name="nomq_index.css" crc="115148963" ref="phone>index"/>
+      <file name="index.css" crc="3830964257" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4048693007" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="373141178" seo="true" mt="1560458197512" redirect="true"/>
+    <file name="index.html" crc="3841341075" seo="true" mt="1560458197512" redirect="true"/>
   </folder>
-  <file name="index.html" crc="206699108" seo="true" mt="1560458464706" redirect="true"/>
+  <file name="index.html" crc="294182813" seo="true" mt="1560460137371" redirect="true"/>
 </manifest>
