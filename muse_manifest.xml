@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560527318863">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560631052987">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="213437538" ref="index"/>
+    <file name="index.css" crc="4162473124" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -48,7 +48,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
     </file>
     <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -156,7 +156,7 @@
     <file name="u5424-r.png" crc="3812470625" ref="phone>index"/>
     <file name="u5424-r_2x.png" crc="353474723" ref="phone>index"/>
     <file name="оригинальные сайты 1317x204.jpg" crc="3891397444" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
     </file>
     <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -279,10 +279,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="379381665" ref="phone>index"/>
-      <file name="nomq_index.css" crc="278149168" ref="phone>index"/>
+      <file name="index.css" crc="4098336342" ref="phone>index"/>
+      <file name="nomq_index.css" crc="360212049" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="116914759" seo="true" mt="1560527290214" redirect="true"/>
+    <file name="index.html" crc="421534584" seo="true" mt="1560631028323" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4236047155" seo="true" mt="1560454444358" redirect="true"/>
+  <file name="index.html" crc="4074099861" seo="true" mt="1560631014480" redirect="true"/>
 </manifest>
