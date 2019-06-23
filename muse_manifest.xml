@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561319848308">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561321220911">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3924010666" ref="index"/>
+    <file name="index.css" crc="3918866809" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -206,7 +206,7 @@
     <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
+    <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7.png" crc="4283586251" seo="true" ref="index">
@@ -215,7 +215,7 @@
     <file name="в слайд шоу 7_2x.png" crc="3859349063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="price.jpg" crc="153946159" seo="true" ref="index">
+    <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="оформление сайта 1.jpg" crc="3759520450" seo="true" ref="index">
@@ -233,6 +233,9 @@
     <file name="белка.gif" crc="4176785329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="old_copper_reflect_color.jpg" crc="3875375933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="изображение-для-моего-landing---округлость-1.png" crc="4219649558" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -246,6 +249,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old_copper_reflect_color copy.jpg" crc="3805894148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="еда_11.jpg" crc="4061749203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="еда_11_2x.jpg" crc="4115641608" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1013.png" crc="4147075457" ref="index"/>
@@ -282,5 +294,5 @@
     </folder>
     <file name="index.html" crc="61359812" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3859899552" seo="true" mt="1561319831601" redirect="true"/>
+  <file name="index.html" crc="366366113" seo="true" mt="1561321199662" redirect="true"/>
 </manifest>
