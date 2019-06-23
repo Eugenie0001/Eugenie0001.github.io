@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561322579212">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561323061208">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="254730632" ref="index"/>
@@ -112,20 +112,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="master 2-u30301.png" crc="496516618" ref="phone>index"/>
-    <file name="master 2-u30301_2x.png" crc="220755694" ref="phone>index"/>
-    <file name="visa 3-u30310.png" crc="4276694506" ref="phone>index"/>
-    <file name="visa 3-u30310_2x.png" crc="3805792220" ref="phone>index"/>
+    <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="master 4.jpg" crc="182144409" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="master 4_2x.jpg" crc="3927925216" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="master 2-u30301.png" crc="9474942" ref="phone>index"/>
+    <file name="master 2-u30301_2x.png" crc="5492980" ref="phone>index"/>
+    <file name="visa 3-u30310.png" crc="382963457" ref="phone>index"/>
+    <file name="visa 3-u30310_2x.png" crc="3759716558" ref="phone>index"/>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
     <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
@@ -204,10 +204,10 @@
     <file name="u5424_2x2.png" crc="3995102956" ref="phone>index"/>
     <file name="u5424-r2.png" crc="443455750" ref="phone>index"/>
     <file name="u5424-r_2x2.png" crc="174568323" ref="phone>index"/>
-    <file name="master 2-u303012.png" crc="496516618" ref="phone>index"/>
-    <file name="master 2-u30301_2x2.png" crc="220755694" ref="phone>index"/>
-    <file name="visa 3-u303102.png" crc="390514556" ref="phone>index"/>
-    <file name="visa 3-u30310_2x2.png" crc="533628451" ref="phone>index"/>
+    <file name="master 2-u303012.png" crc="9474942" ref="phone>index"/>
+    <file name="master 2-u30301_2x2.png" crc="5492980" ref="phone>index"/>
+    <file name="visa 3-u303102.png" crc="3962887894" ref="phone>index"/>
+    <file name="visa 3-u30310_2x2.png" crc="4286567277" ref="phone>index"/>
     <file name="master 459x59.jpg" crc="407126069" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -321,10 +321,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4123153266" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3955037388" ref="phone>index"/>
+      <file name="index.css" crc="3851566785" ref="phone>index"/>
+      <file name="nomq_index.css" crc="261604513" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4056798353" seo="true" mt="1561322536810" redirect="true"/>
+    <file name="index.html" crc="18960206" seo="true" mt="1561323034554" redirect="true"/>
   </folder>
   <file name="index.html" crc="479852905" seo="true" mt="1561321416311" redirect="true"/>
 </manifest>
