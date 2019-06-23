@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561318957534">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561321397779">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3917864507" ref="index"/>
@@ -39,33 +39,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="price325x207.jpg" crc="4013968629" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="price330x232_2x.jpg" crc="40848207" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="price325x207_2x.jpg" crc="367615846" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
       <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
     </file>
-    <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="в слайд шоу 7324x208.png" crc="4104204395" seo="true" ref="phone>index">
+    <file name="оформление сайта 1325x204.jpg" crc="425520276" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="в слайд шоу 7324x208_2x.png" crc="4051950283" seo="true" ref="phone>index">
+    <file name="в слайд шоу 7324x209.png" crc="3791291274" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="загрузка 16.gif" crc="532293963" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="загрузка 16_2x.gif" crc="532293963" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="в слайд шоу 7324x209_2x.png" crc="3843665607" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 08.gif" crc="9798183" seo="true" ref="phone>index">
@@ -165,8 +154,17 @@
     <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
     <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
+    <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price330x232_2x.jpg" crc="40848207" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="оригинальные сайты 1317x204.jpg" crc="3891397444" seo="true" ref="phone>index">
       <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
+    </file>
+    <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -279,10 +277,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4234561964" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3846052363" ref="phone>index"/>
+      <file name="index.css" crc="505388953" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3861381796" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="140126245" seo="true" mt="1561318783550" redirect="true"/>
+    <file name="index.html" crc="3819057985" seo="true" mt="1561321333110" redirect="true"/>
   </folder>
-  <file name="index.html" crc="506213341" seo="true" mt="1561318925423" redirect="true"/>
+  <file name="index.html" crc="506213341" seo="true" mt="1561321333106" redirect="true"/>
 </manifest>
