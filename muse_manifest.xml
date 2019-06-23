@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561321220911">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561321743160">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3918866809" ref="index"/>
+    <file name="index.css" crc="298260863" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -248,9 +248,6 @@
     <file name="телефон 1.png" crc="4007793223" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="old_copper_reflect_color copy.jpg" crc="3805894148" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -258,6 +255,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="еда_11_2x.jpg" crc="4115641608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="еда_10.jpg" crc="3947094182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="еда_10_2x.jpg" crc="489642493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1013.png" crc="4147075457" ref="index"/>
@@ -294,5 +300,5 @@
     </folder>
     <file name="index.html" crc="61359812" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="366366113" seo="true" mt="1561321199662" redirect="true"/>
+  <file name="index.html" crc="3808732612" seo="true" mt="1561321718235" redirect="true"/>
 </manifest>
