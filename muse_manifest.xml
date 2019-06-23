@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561329654455">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561320372563">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4080128280" ref="index"/>
+    <file name="index.css" crc="4030532016" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -113,6 +113,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -230,7 +235,7 @@
     <file name="замок 5_2x.jpg" crc="4120990903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="белка.gif" crc="4176785329" seo="true" ref="index">
+    <file name="preloader_1.gif" crc="3821197919" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="изображение-для-моего-landing---округлость-1.png" crc="4219649558" seo="true" ref="index">
@@ -242,16 +247,16 @@
     <file name="телефон 1.png" crc="4007793223" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="конверт 1.png" crc="3817496968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="письмо 2.gif" crc="372844238" seo="true" ref="index">
+    <file name="письмо-8.gif" crc="75493757" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="письмо 2_2x.gif" crc="372844238" seo="true" ref="index">
+    <file name="письмо-8_2x.gif" crc="75493757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="еда_11.jpg" crc="4061749203" seo="true" ref="index">
@@ -289,10 +294,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3991522545" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4259938726" ref="phone>index"/>
+      <file name="index.css" crc="4035222051" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4258779778" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="173332942" seo="true" redirect="true"/>
+    <file name="index.html" crc="3871402831" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3882755182" seo="true" mt="1561329596639" redirect="true"/>
+  <file name="index.html" crc="4273241819" seo="true" redirect="true"/>
 </manifest>
