@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561414819255">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561415419804">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="12310693" ref="index"/>
+    <file name="index.css" crc="3988361595" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -252,6 +252,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="master 278x46.png" crc="283321483" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -260,14 +264,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="visa 3.png" crc="3930421202" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="visa 3_2x.png" crc="3973089185" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="themes-list188x156.png" crc="307659957" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
@@ -542,6 +550,12 @@
     <file name="preloader_1.gif" crc="3821197919" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="изображение-для-моего-landing---округлость-1.png" crc="4227929242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing---округлость-1_2x.png" crc="3830131709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="1.jpg" crc="77512522" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -680,10 +694,10 @@
     <file name="17_2x.jpg" crc="76204557" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1.png" crc="4227929242" seo="true" ref="index">
+    <file name="themes-list.png" crc="4256133062" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1_2x.png" crc="3830131709" seo="true" ref="index">
+    <file name="themes-list_2x.png" crc="3797965222" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="телефон 1.png" crc="4007793223" seo="true" ref="index">
@@ -748,10 +762,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="388607614" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4271033919" ref="phone>index"/>
+      <file name="index.css" crc="459594420" ref="phone>index"/>
+      <file name="nomq_index.css" crc="442643586" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="373214233" seo="true" mt="1561414756314" redirect="true"/>
+    <file name="index.html" crc="419175905" seo="true" mt="1561415170773" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3770754545" seo="true" mt="1561414678613" redirect="true"/>
+  <file name="index.html" crc="444239103" seo="true" mt="1561415331400" redirect="true"/>
 </manifest>
