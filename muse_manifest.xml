@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561448114216">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561406354881">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4173237521" ref="index"/>
@@ -9,8 +9,7 @@
     <file name="mobile-1.png" crc="267211074" seo="true" mt="1559692757000"/>
     <file name="mobile-2.png" crc="3802391686" seo="true" mt="1559692729000"/>
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
-    <file name="прайс-от-15-июня-2019-новый,--корректируемый-постоянно.pdf" crc="152173516" seo="true" mt="1561441035000"/>
-    <file name="прайс-от-15-июня-2019.pdf" crc="228523491" seo="true" mt="1561444790000"/>
+    <file name="прайс-от-15-июня-2019--.pdf" crc="4049917321" seo="true" mt="1561404848000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -879,10 +878,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="389240027" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4109873030" ref="phone>index"/>
+      <file name="index.css" crc="415436956" ref="phone>index"/>
+      <file name="nomq_index.css" crc="523201492" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4228284427" seo="true" mt="1561447981491" redirect="true"/>
+    <file name="index.html" crc="69911366" seo="true" mt="1561406270320" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4184774733" seo="true" mt="1561445233248" redirect="true"/>
+  <file name="index.html" crc="113692919" seo="true" mt="1561404885942" redirect="true"/>
 </manifest>
