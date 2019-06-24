@@ -1,15 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561410426855">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561416266853">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3814588341" ref="index"/>
+    <file name="index.css" crc="269065757" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
     <file name="для-landing-сайта-bussines-(before---after-slider)-2.png" crc="4252081864" seo="true" mt="1498805816000"/>
     <file name="mobile-1.png" crc="267211074" seo="true" mt="1559692757000"/>
     <file name="mobile-2.png" crc="3802391686" seo="true" mt="1559692729000"/>
-    <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
-    <file name="прайс-от-15-июня-2019--.pdf" crc="4049917321" seo="true" mt="1561404848000"/>
+    <file name="прайс-от-15-июня-2019---a-.pdf" crc="4150705501" seo="true" mt="1561416010000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -304,10 +303,10 @@
     <file name="28325x245_2x.png" crc="414926635" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8325x245.png" crc="504970825" seo="true" ref="phone>index">
+    <file name="14325x245.jpg" crc="251509211" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8325x245_2x.png" crc="394965525" seo="true" ref="phone>index">
+    <file name="14325x245_2x.jpg" crc="127092210" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="11325x245.png" crc="306836706" seo="true" ref="phone>index">
@@ -685,10 +684,10 @@
     <file name="28284x215_2x.png" crc="164366507" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8284x215.png" crc="3853608264" seo="true" ref="phone>index">
+    <file name="14284x215.jpg" crc="4088800614" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8284x215_2x.png" crc="4034260990" seo="true" ref="phone>index">
+    <file name="14284x215_2x.jpg" crc="522295352" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="11284x215.png" crc="4271237711" seo="true" ref="phone>index">
@@ -957,6 +956,12 @@
     <file name="a (8)_2x.jpg" crc="3869995870" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="14.jpg" crc="4128639954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_2x.jpg" crc="188117241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="29.png" crc="498927363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1076,10 +1081,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4112940060" ref="phone>index"/>
-      <file name="nomq_index.css" crc="18250953" ref="phone>index"/>
+      <file name="index.css" crc="3941284462" ref="phone>index"/>
+      <file name="nomq_index.css" crc="465793639" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3935816273" seo="true" mt="1561408311656" redirect="true"/>
+    <file name="index.html" crc="3904649610" seo="true" mt="1561416020840" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4168907550" seo="true" mt="1561410348937" redirect="true"/>
+  <file name="index.html" crc="3791710897" seo="true" mt="1561416028683" redirect="true"/>
 </manifest>
