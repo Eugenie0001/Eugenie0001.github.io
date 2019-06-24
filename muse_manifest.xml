@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561406476082">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561407374106">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4031617919" ref="index"/>
@@ -282,6 +282,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="конверт 199x99.png" crc="262618607" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="master 278x46.png" crc="283321483" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -302,9 +305,6 @@
     </file>
     <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="конверт 199x99.png" crc="262618607" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
@@ -856,10 +856,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="528115612" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3944574401" ref="phone>index"/>
+      <file name="index.css" crc="4291014243" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3782785655" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4245674749" seo="true" mt="1561406306743" redirect="true"/>
+    <file name="index.html" crc="534790855" seo="true" mt="1561407319422" redirect="true"/>
   </folder>
   <file name="index.html" crc="486663469" seo="true" mt="1561403824594" redirect="true"/>
 </manifest>
