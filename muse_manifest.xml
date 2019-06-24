@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561349446221">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561350091677">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4244417603" ref="index"/>
@@ -139,7 +139,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
@@ -341,10 +341,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4263550708" ref="phone>index"/>
-      <file name="nomq_index.css" crc="399693906" ref="phone>index"/>
+      <file name="index.css" crc="4041553409" ref="phone>index"/>
+      <file name="nomq_index.css" crc="224030149" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4129476619" seo="true" mt="1561349141241" redirect="true"/>
+    <file name="index.html" crc="3951383382" seo="true" mt="1561350073340" redirect="true"/>
   </folder>
   <file name="index.html" crc="306232906" seo="true" mt="1561349409232" redirect="true"/>
 </manifest>
