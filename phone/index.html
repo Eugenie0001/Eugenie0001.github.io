@@ -22,10 +22,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Landing Page. Лэндинг Пейдж на заказ. Сайт визитка.</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3969931239" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=389198472" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=471242330" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=200473843" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -312,6 +312,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clip_frame grpelem" id="u19893"><!-- image -->
         <img class="block temp_no_img_src" id="u19893_img" data-orig-src="../images/marty.gif?crc=434718329" alt="" width="61" height="61" src="../images/blank.gif?crc=4208392903"/>
        </div>
+       <div class="size_fixed grpelem shared_content" id="u36909" data-content-guid="u36909_content"><!-- custom html -->
+        
+
+       </div>
+      </div>
+      <div class="size_fixed colelem shared_content" id="u36888" data-content-guid="u36888_content"><!-- custom html -->
       </div>
       <div class="clearfix colelem" id="ppamphletu5775"><!-- group -->
        <div class="PamphletWidget clearfix grpelem" id="pamphletu5775"><!-- none box -->
@@ -692,7 +698,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <a class="nonblock nontext rounded-corners grpelem shared_content" id="u5430" href="mailto:five.airport.extreme@gmail.com" data-content-guid="u5430_content"><!-- content --></a>
     <a class="nonblock nontext rounded-corners grpelem shared_content" id="u5431" href="https://soundcloud.com/roesch-music" data-content-guid="u5431_content"><!-- content --></a>
     <a class="nonblock nontext rounded-corners grpelem shared_content" id="u13907" href="tel:+79087042608" data-content-guid="u13907_content"><!-- content --></a>
-    <div class="verticalspacer" data-offset-top="4446" data-content-above-spacer="4510" data-content-below-spacer="19"></div>
+    <div class="verticalspacer" data-offset-top="4466" data-content-above-spacer="4530" data-content-below-spacer="19"></div>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="../images/u5403-r.png?crc=3961784252" alt="" src="../images/blank.gif?crc=4208392903"/>
@@ -721,7 +727,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <span class="clip_frame grpelem placeholder" data-placeholder-for="u17417_content"><!-- placeholder node --></span>
         <span class="clearfix grpelem placeholder" data-placeholder-for="u5353-4_content"><!-- placeholder node --></span>
         <span class="rounded-corners grpelem placeholder" data-placeholder-for="u16816_content"><!-- placeholder node --></span>
+        <span class="size_fixed grpelem placeholder" data-placeholder-for="u36909_content"><!-- placeholder node --></span>
        </div>
+       <span class="size_fixed colelem placeholder" data-placeholder-for="u36888_content"><!-- placeholder node --></span>
        <span class="clearfix colelem placeholder" data-placeholder-for="u24375-4_content"><!-- placeholder node --></span>
        <span class="size_fixed colelem placeholder" data-placeholder-for="u5399_content"><!-- placeholder node --></span>
        <span class="clip_frame colelem placeholder" data-placeholder-for="u5400_content"><!-- placeholder node --></span>
@@ -1033,6 +1041,35 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   
   <!--HTML Widget code-->
   
+<script>
+$(document).ready(function(){
+    $(document).bind("contextmenu",function(e){
+        return false;
+    });
+    
+    $(document).mousedown(function(e){ 
+        if( e.button == 2 ) { 
+          return false; 
+        } 
+        return true; 
+    });
+});
+</script>
+
+
+		<script language="javascript">
+            document.onmousedown=disableclick;
+            status="Правая кнопка заблокирована!";
+            Function disableclick(event){
+                if(event.button==2){
+                    alert(status);
+                    return false;    
+                }
+            }
+        </script>
+        <body oncontextmenu="return false">
+        </body>
+
 			<script>
 
 				// jquery.event.move
