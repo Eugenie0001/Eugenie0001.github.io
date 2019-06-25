@@ -226,6 +226,12 @@
       <image:loc>http://eugenie.ml/images/themes-list_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://eugenie.ml/images/pdf%20%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://eugenie.ml/images/pdf%20%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA%203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://eugenie.ml/images/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%201.png</image:loc>
     </image:image>
     <image:image>
@@ -275,20 +281,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://eugenie.ml/assets/mobile-2.png</loc>
+    <lastmod>2019-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://eugenie.ml/assets/landing--%D1%84%D0%BE%D1%82%D0%BEa-after-before-1.png</loc>
     <lastmod>2017-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eugenie.ml/assets/a1-(8).ico</loc>
-    <lastmod>2017-06-21</lastmod>
+    <loc>http://eugenie.ml/assets/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BE%D1%82-15-%D0%B8%D1%8E%D0%BD%D1%8F-2019-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9,--%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE.pdf</loc>
+    <lastmod>2019-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eugenie.ml/assets/mobile-2.png</loc>
-    <lastmod>2019-06-05</lastmod>
+    <loc>http://eugenie.ml/assets/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BE%D1%82-15-%D0%B8%D1%8E%D0%BD%D1%8F-2019.pdf</loc>
+    <lastmod>2019-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eugenie.ml/assets/a1-(8).ico</loc>
+    <lastmod>2017-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
