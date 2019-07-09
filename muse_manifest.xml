@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562705491606">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562706245509">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4282482816" ref="index"/>
@@ -10,6 +10,7 @@
     <file name="mobile-2.png" crc="3802391686" seo="true" mt="1559692729000"/>
     <file name="прайс-от-15-июня-2019--с.pdf" crc="203193766" seo="true" mt="1562704336000"/>
     <file name="прайс-от-15-июня-2019--d.pdf" crc="4239925317" seo="true" mt="1562705395000"/>
+    <file name="прайс-от-15-июня-2019--e.pdf" crc="36871948" seo="true" mt="1562706148000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -1085,7 +1086,7 @@
       <file name="index.css" crc="4236112615" ref="phone>index"/>
       <file name="nomq_index.css" crc="465793639" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3819905853" seo="true" mt="1562705420758" redirect="true"/>
+    <file name="index.html" crc="4158880221" seo="true" mt="1562706184136" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4294025817" seo="true" mt="1562705428971" redirect="true"/>
+  <file name="index.html" crc="533946184" seo="true" mt="1562706172446" redirect="true"/>
 </manifest>
