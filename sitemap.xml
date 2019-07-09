@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eugenie.ml/index.html</loc>
-    <lastmod>2019-06-25</lastmod>
+    <lastmod>2019-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eugenie.ml/phone/index.html"/>
@@ -359,8 +359,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eugenie.ml/assets/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BE%D1%82-15-%D0%B8%D1%8E%D0%BD%D1%8F-2019---a-.pdf</loc>
-    <lastmod>2019-06-25</lastmod>
+    <loc>http://eugenie.ml/assets/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BE%D1%82-15-%D0%B8%D1%8E%D0%BD%D1%8F-2019--%D1%81.pdf</loc>
+    <lastmod>2019-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eugenie.ml/assets/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BE%D1%82-15-%D0%B8%D1%8E%D0%BD%D1%8F-2019--d.pdf</loc>
+    <lastmod>2019-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
