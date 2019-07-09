@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562709438988">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562702107763">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3890940968" ref="index"/>
+    <file name="index.css" crc="4118914444" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -27,8 +27,8 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="u5352-7.png" crc="535557423" ref="phone>index"/>
-    <file name="u5352-7_2x.png" crc="4114961601" ref="phone>index"/>
+    <file name="u5352-7.png" crc="4030309258" ref="phone>index"/>
+    <file name="u5352-7_2x.png" crc="32279029" ref="phone>index"/>
     <file name="параллелограмм.png" crc="53742367" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -442,8 +442,8 @@
     <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5352-72.png" crc="171386224" ref="phone>index"/>
-    <file name="u5352-7_2x2.png" crc="3879892220" ref="phone>index"/>
+    <file name="u5352-72.png" crc="3807465975" ref="phone>index"/>
+    <file name="u5352-7_2x2.png" crc="359938312" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
     <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
@@ -698,8 +698,8 @@
     <file name="17284x215_2x.png" crc="4272985703" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u155-5.png" crc="4149588721" ref="index"/>
-    <file name="u155-5_2x.png" crc="3988038573" ref="index"/>
+    <file name="u155-5.png" crc="7709308" ref="index"/>
+    <file name="u155-5_2x.png" crc="4121947398" ref="index"/>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1047,10 +1047,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="467465447" ref="phone>index"/>
-      <file name="nomq_index.css" crc="358041433" ref="phone>index"/>
+      <file name="index.css" crc="134922844" ref="phone>index"/>
+      <file name="nomq_index.css" crc="166419622" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4200900960" seo="true" mt="1562709372317" redirect="true"/>
+    <file name="index.html" crc="3874038432" seo="true" mt="1562701966741" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4089542497" seo="true" mt="1562709317710" redirect="true"/>
+  <file name="index.html" crc="4045308740" seo="true" redirect="true"/>
 </manifest>
