@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1563673429894">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566249251508">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4220552034" ref="index"/>
+    <file name="index.css" crc="31771494" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -47,10 +47,10 @@
     <file name="price325x207_2x.jpg" crc="367615846" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
+    <file name="оригинальные сайты 1.jpg" crc="4167448249" seo="true" ref="phone>index">
       <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
     </file>
-    <file name="оформление сайта 1325x204.jpg" crc="425520276" seo="true" ref="phone>index">
+    <file name="оформление сайта 1324x204.jpg" crc="242159656" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7324x209.png" crc="3791291274" seo="true" ref="phone>index">
@@ -381,7 +381,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
@@ -1047,10 +1047,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="12083531" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4173878013" ref="phone>index"/>
+      <file name="index.css" crc="124478569" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4025715721" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3972568174" seo="true" mt="1562702299820" redirect="true"/>
+    <file name="index.html" crc="426100682" seo="true" mt="1566249120010" redirect="true"/>
   </folder>
-  <file name="index.html" crc="367629402" seo="true" redirect="true"/>
+  <file name="index.html" crc="4074448888" seo="true" mt="1566248085444" redirect="true"/>
 </manifest>
