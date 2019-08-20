@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566332332353">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566332788276">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="3942925207" ref="index"/>
+    <file name="index.css" crc="79406873" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -421,6 +421,8 @@
     <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u14571-52.png" crc="116179031" ref="phone>index"/>
+    <file name="u14571-5_2x2.png" crc="4255848411" ref="phone>index"/>
     <file name="часы-без-стрелок-5-u477122.png" crc="3865618971" ref="phone>index"/>
     <file name="часы-без-стрелок-5-u47712_2x2.png" crc="4212421922" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
@@ -449,8 +451,6 @@
     <file name="u54872-4_2x.png" crc="384128602" ref="phone>index"/>
     <file name="u54948-4.png" crc="313829025" ref="phone>index"/>
     <file name="u54948-4_2x.png" crc="73569984" ref="phone>index"/>
-    <file name="u14571-52.png" crc="116179031" ref="phone>index"/>
-    <file name="u14571-5_2x2.png" crc="4255848411" ref="phone>index"/>
     <file name="visa 373x45.png" crc="462071712" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -893,10 +893,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="53215601" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4140138794" ref="phone>index"/>
+      <file name="index.css" crc="110184530" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4105779005" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4474333" seo="true" mt="1566332252612" redirect="true"/>
+    <file name="index.html" crc="3980225313" seo="true" mt="1566332704734" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3994576918" seo="true" mt="1566332218637" redirect="true"/>
+  <file name="index.html" crc="8069561" seo="true" mt="1566332704733" redirect="true"/>
 </manifest>
