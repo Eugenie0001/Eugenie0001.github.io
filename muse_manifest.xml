@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566331864674">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566333387162">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
     <file name="index.css" crc="4059979693" ref="index"/>
@@ -28,17 +28,15 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="marty.gif" crc="434718329" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="параллелограмм.png" crc="53742367" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="параллелограмм_2x.png" crc="4283554233" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marty.gif" crc="434718329" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -901,10 +899,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="368162344" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3858019038" ref="phone>index"/>
+      <file name="index.css" crc="4254580738" ref="phone>index"/>
+      <file name="nomq_index.css" crc="455122613" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3903294713" seo="true" mt="1566331590630" redirect="true"/>
+    <file name="index.html" crc="243123991" seo="true" mt="1566333052308" redirect="true"/>
   </folder>
   <file name="index.html" crc="437756320" seo="true" mt="1566331016168" redirect="true"/>
 </manifest>
