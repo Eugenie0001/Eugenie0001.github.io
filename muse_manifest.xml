@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566330362567">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566333450015">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="338489989" ref="index"/>
@@ -58,14 +58,8 @@
     <file name="оформление сайта 1324x204.jpg" crc="242159656" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="шестерня-2.gif" crc="104334162" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="шестерня-2_2x.gif" crc="104334162" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="часы-без-стрелки-u47712.png" crc="403133896" ref="phone>index"/>
+    <file name="часы-без-стрелки-u47712_2x.png" crc="244323910" ref="phone>index"/>
     <file name="u46411-4.png" crc="3843935026" ref="phone>index"/>
     <file name="u46411-4_2x.png" crc="57596131" ref="phone>index"/>
     <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index:index">
@@ -348,7 +342,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
@@ -419,6 +413,8 @@
     <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="часы-без-стрелки-u477122.png" crc="493887294" ref="phone>index"/>
+    <file name="часы-без-стрелки-u47712_2x2.png" crc="4276052981" ref="phone>index"/>
     <file name="u54162.png" crc="4151813484" ref="phone>index"/>
     <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
     <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
@@ -897,10 +893,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="201907471" ref="phone>index"/>
-      <file name="nomq_index.css" crc="437534550" ref="phone>index"/>
+      <file name="index.css" crc="118540550" ref="phone>index"/>
+      <file name="nomq_index.css" crc="37766671" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="182623663" seo="true" mt="1566330272760" redirect="true"/>
+    <file name="index.html" crc="3854112378" seo="true" mt="1566333359509" redirect="true"/>
   </folder>
   <file name="index.html" crc="3997834705" seo="true" mt="1566330272758" redirect="true"/>
 </manifest>
