@@ -76,12 +76,6 @@
       <image:loc>http://eugenie.ml/images/2_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eugenie.ml/images/4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/4_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://eugenie.ml/images/5.png</image:loc>
     </image:image>
     <image:image>
@@ -110,12 +104,6 @@
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/4_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/5_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/62.jpg</image:loc>
@@ -178,22 +166,10 @@
       <image:loc>http://eugenie.ml/images/30_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eugenie.ml/images/23.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/23_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://eugenie.ml/images/a%20(1).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/a%20(1)_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/a%20(2).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/a%20(2)_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/a%20(3).jpg</image:loc>
@@ -214,34 +190,10 @@
       <image:loc>http://eugenie.ml/images/a%20(5)_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eugenie.ml/images/a%20(6).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/a%20(6)_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/a%20(7).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/a%20(7)_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://eugenie.ml/images/a%20(8).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/a%20(8)_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/14_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/29.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/29_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/27.png</image:loc>
@@ -250,16 +202,10 @@
       <image:loc>http://eugenie.ml/images/27_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eugenie.ml/images/28.png</image:loc>
+      <image:loc>http://eugenie.ml/images/14.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eugenie.ml/images/28_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/8.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/8_2x.png</image:loc>
+      <image:loc>http://eugenie.ml/images/14_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/11.png</image:loc>
@@ -274,22 +220,10 @@
       <image:loc>http://eugenie.ml/images/13_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eugenie.ml/images/15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/15_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://eugenie.ml/images/16.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/16_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/17.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/17_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%201.png</image:loc>
