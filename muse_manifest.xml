@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566327612948">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566328081003">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="360206489" ref="index"/>
@@ -339,10 +339,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1346x186.png" crc="4171313762" seo="true" ref="phone>index">
+    <file name="изображение-для-моего-landing---округлость-1345x186.png" crc="446134962" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="изображение-для-моего-landing---округлость-1346x186_2x.png" crc="363383369" seo="true" ref="phone>index">
+    <file name="изображение-для-моего-landing---округлость-1345x186_2x.png" crc="504432129" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="письмо 394x86.png" crc="258229551" seo="true" ref="phone>index">
@@ -1060,10 +1060,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="309129362" ref="phone>index"/>
-      <file name="nomq_index.css" crc="269546803" ref="phone>index"/>
+      <file name="index.css" crc="3770356843" ref="phone>index"/>
+      <file name="nomq_index.css" crc="352678046" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4172270858" seo="true" mt="1566327483947" redirect="true"/>
+    <file name="index.html" crc="3825984554" seo="true" mt="1566328014772" redirect="true"/>
   </folder>
   <file name="index.html" crc="96081832" seo="true" mt="1566327510030" redirect="true"/>
 </manifest>
