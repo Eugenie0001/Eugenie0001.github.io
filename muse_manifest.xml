@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566367961703">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566335401788">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="50919897" ref="index"/>
@@ -10,8 +10,6 @@
     <file name="прайс-от-15-июня-2019--d.pdf" crc="4239925317" seo="true" mt="1562705395000"/>
     <file name="прайс-от-15-июня-2019--e.pdf" crc="36871948" seo="true" mt="1562706148000"/>
     <file name="прайс-от-23-августа-2019.pdf" crc="4263790536" seo="true" mt="1566323254000"/>
-    <file name="mobile--7.png" crc="3866625396" seo="true" mt="1566363851000"/>
-    <file name="mobile--8.png" crc="4172429614" seo="true" mt="1566363805000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -84,6 +82,14 @@
     <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf107x69_2x.jpg" crc="326125877" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="бабчки-мигалки-1.jpg" crc="3924707667" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="бабчки-мигалки-2.jpg" crc="28260056" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -121,7 +127,6 @@
     <file name="1325x245_2x.png" crc="216600926" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="2325x245.png" crc="4139174941" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -278,7 +283,6 @@
     <file name="16325x245_2x.png" crc="315717714" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="perfomance 4.png" crc="3766097650" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -617,6 +621,12 @@
     <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="бабчки-мигалки-1163x155.jpg" crc="240024765" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="бабчки-мигалки-2163x155.jpg" crc="346448776" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -903,10 +913,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="26444440" ref="phone>index"/>
-      <file name="nomq_index.css" crc="284456045" ref="phone>index"/>
+      <file name="index.css" crc="308090816" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4034636267" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="249305995" seo="true" mt="1566365808240" redirect="true"/>
+    <file name="index.html" crc="4098474905" seo="true" mt="1566335224314" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4276864059" seo="true" mt="1566367814635" redirect="true"/>
+  <file name="index.html" crc="3994987653" seo="true" redirect="true"/>
 </manifest>
