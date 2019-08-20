@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566340999416">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566341568148">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="55022734" ref="index"/>
+    <file name="index.css" crc="90162677" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -84,11 +84,7 @@
     <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf_2x.jpg" crc="326125877" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="бабчки больш размер.jpg" crc="255049945" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="бабчки больш размер_2x.jpg" crc="3808694431" seo="true" ref="phone>index">
+    <file name="бабчки-мигалки-2.jpg" crc="131687188" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -907,10 +903,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="91510234" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3855511275" ref="phone>index"/>
+      <file name="index.css" crc="10424564" ref="phone>index"/>
+      <file name="nomq_index.css" crc="389218037" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="360642747" seo="true" mt="1566340912143" redirect="true"/>
+    <file name="index.html" crc="261479744" seo="true" mt="1566341333443" redirect="true"/>
   </folder>
-  <file name="index.html" crc="353666485" seo="true" mt="1566339525542" redirect="true"/>
+  <file name="index.html" crc="4154974740" seo="true" mt="1566341470289" redirect="true"/>
 </manifest>
