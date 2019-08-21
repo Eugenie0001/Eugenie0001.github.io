@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566347281115">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566360901621">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="203218248" ref="index"/>
@@ -6,12 +6,12 @@
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
     <file name="для-landing-сайта-bussines-(before---after-slider)-2.png" crc="4252081864" seo="true" mt="1498805816000"/>
-    <file name="mobile-1.png" crc="267211074" seo="true" mt="1559692757000"/>
-    <file name="mobile-2.png" crc="3802391686" seo="true" mt="1559692729000"/>
     <file name="прайс-от-15-июня-2019--с.pdf" crc="203193766" seo="true" mt="1562704336000"/>
     <file name="прайс-от-15-июня-2019--d.pdf" crc="4239925317" seo="true" mt="1562705395000"/>
     <file name="прайс-от-15-июня-2019--e.pdf" crc="36871948" seo="true" mt="1562706148000"/>
     <file name="прайс-от-23-августа-2019.pdf" crc="4263790536" seo="true" mt="1566323254000"/>
+    <file name="mobile--7.png" crc="484637887" seo="true" mt="1566357320000"/>
+    <file name="mobile--8.png" crc="4152973807" seo="true" mt="1566357344000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -40,30 +40,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="в слайд шоу 7324x209.png" crc="3791291274" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="в слайд шоу 7324x209_2x.png" crc="3843665607" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="price325x207.jpg" crc="4013968629" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="price325x207_2x.jpg" crc="367615846" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="в слайд шоу 7324x209.png" crc="3791291274" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7324x209_2x.png" crc="3843665607" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="оригинальные сайты 1.jpg" crc="4167448249" seo="true" ref="phone>index">
       <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
     </file>
     <file name="оформление сайта 1324x204.jpg" crc="242159656" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="загрузка 08.gif" crc="9798183" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="загрузка 08_2x.gif" crc="9798183" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="шестерня-2.gif" crc="104334162" seo="true" ref="phone>index">
@@ -74,8 +66,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u46161-4.png" crc="3963869197" ref="phone>index"/>
-    <file name="u46161-4_2x.png" crc="69201789" ref="phone>index"/>
+    <file name="u46161-4.png" crc="486363569" ref="phone>index"/>
+    <file name="u46161-4_2x.png" crc="4109881752" ref="phone>index"/>
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf.jpg" crc="3777098906" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf_2x.jpg" crc="55539271" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -387,16 +387,16 @@
     <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
     <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
     <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
-    <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="price330x232_2x.jpg" crc="40848207" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="оригинальные сайты 1317x204.jpg" crc="3891397444" seo="true" ref="phone>index">
@@ -883,10 +883,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="232380489" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4197475497" ref="phone>index"/>
+      <file name="index.css" crc="4195549017" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4290397694" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4045851822" seo="true" mt="1566347182499" redirect="true"/>
+    <file name="index.html" crc="3997750903" seo="true" mt="1566360776776" redirect="true"/>
   </folder>
-  <file name="index.html" crc="457260747" seo="true" mt="1566344444892" redirect="true"/>
+  <file name="index.html" crc="457260747" seo="true" redirect="true"/>
 </manifest>
