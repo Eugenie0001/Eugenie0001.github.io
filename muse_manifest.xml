@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566365907086">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566367961703">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="203218248" ref="index"/>
+    <file name="index.css" crc="50919897" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -68,18 +68,20 @@
     </file>
     <file name="u46161-4.png" crc="3887584566" ref="phone>index"/>
     <file name="u46161-4_2x.png" crc="4009841577" ref="phone>index"/>
-    <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index">
+    <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="градусник_2x.jpg" crc="5709416" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf.jpg" crc="344744541" seo="true" ref="phone>index">
+    <file name="градусник_2x.jpg" crc="5709416" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf_2x.jpg" crc="4153354741" seo="true" ref="phone>index">
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf107x69.jpg" crc="307615936" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf107x69_2x.jpg" crc="326125877" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
@@ -431,10 +433,10 @@
     <file name="u5424_2x2.png" crc="3995102956" ref="phone>index"/>
     <file name="u5424-r2.png" crc="443455750" ref="phone>index"/>
     <file name="u5424-r_2x2.png" crc="174568323" ref="phone>index"/>
-    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf95x61.jpg" crc="287130976" seo="true" ref="phone>index">
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf95x61.jpg" crc="3861871470" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf95x61_2x.jpg" crc="52321408" seo="true" ref="phone>index">
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf95x61_2x.jpg" crc="4175182964" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u46161-42.png" crc="16784735" ref="phone>index"/>
@@ -615,21 +617,13 @@
     <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u155-5.png" crc="44071820" ref="index"/>
-    <file name="u155-5_2x.png" crc="3908478469" ref="index"/>
-    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
+    <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7.png" crc="4283586251" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="в слайд шоу 7_2x.png" crc="3859349063" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="price.jpg" crc="153946159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
@@ -641,6 +635,20 @@
     <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4266546142" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf.jpg" crc="207846650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240_f_101338956_ji5zunkqsbsm5iza8hpkofgqceevgxjf_2x.jpg" crc="4121347700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u47858-4.png" crc="3779722955" ref="index"/>
+    <file name="u47858-4_2x.png" crc="4273805511" ref="index"/>
     <file name="замок 5.jpg" crc="3859064128" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -898,7 +906,7 @@
       <file name="index.css" crc="26444440" ref="phone>index"/>
       <file name="nomq_index.css" crc="284456045" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="527916732" seo="true" mt="1566365808240" redirect="true"/>
+    <file name="index.html" crc="249305995" seo="true" mt="1566365808240" redirect="true"/>
   </folder>
-  <file name="index.html" crc="457260747" seo="true" redirect="true"/>
+  <file name="index.html" crc="4276864059" seo="true" mt="1566367814635" redirect="true"/>
 </manifest>
