@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498757113562">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1568662372387">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="4189505425" ref="index"/>
+    <file name="index.css" crc="3811719302" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -354,7 +354,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
@@ -903,10 +903,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3952315588" ref="phone>index"/>
-      <file name="nomq_index.css" crc="193129396" ref="phone>index"/>
+      <file name="index.css" crc="4231420695" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4191048644" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4014319914" seo="true" mt="1498689624215" redirect="true"/>
+    <file name="index.html" crc="422314271" seo="true" mt="1568661999306" redirect="true"/>
   </folder>
-  <file name="index.html" crc="370873395" seo="true" mt="1498757016019" redirect="true"/>
+  <file name="index.html" crc="4057111342" seo="true" mt="1568661999303" redirect="true"/>
 </manifest>
