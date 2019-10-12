@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498789358167">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498944581159">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="187436375" ref="index"/>
+    <file name="index.css" crc="3897888615" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -352,7 +352,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5403.png" crc="527972366" ref="phone>index"/>
-    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="277874950" ref="phone>index"/>
     <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
     <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
     <file name="снизу-на-сайте-фон-под-кнопкой-телефон-6.png" crc="3961113690" seo="true" ref="phone>index">
@@ -899,10 +899,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="412897326" ref="phone>index"/>
-      <file name="nomq_index.css" crc="247609201" ref="phone>index"/>
+      <file name="index.css" crc="4174400337" ref="phone>index"/>
+      <file name="nomq_index.css" crc="71772267" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="332600987" seo="true" mt="1498789073606" redirect="true"/>
+    <file name="index.html" crc="4284429023" seo="true" mt="1498944491785" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4027841514" seo="true" redirect="true"/>
+  <file name="index.html" crc="3873173551" seo="true" redirect="true"/>
 </manifest>
