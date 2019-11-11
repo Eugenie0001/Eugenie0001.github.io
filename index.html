@@ -13,7 +13,7 @@
    // Redirect to phone/tablet as necessary
 (function(c,b,d){var a=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var d=a[b]+"MaxTouchPoints";if(d in navigator&&navigator[d])return!0}try{return document.createEvent("TouchEvent"),!0}catch(f){}return!1}(),f=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var d=b[c];d.charAt(0)==" ";)d=d.substring(1,d.length);if(d.indexOf(a)==
 0)return d.substring(a.length,d.length)}return null};if(f("inbrowserediting")!="true"){var h,f=f("devicelock");f=="phone"&&d?h=d:f=="tablet"&&b&&(h=b);if(f!=c&&!h)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&d?h=d:window.matchMedia("(max-device-width: 960px)").matches&&b&&a&&(h=b);else{var c=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),f=window.screen.systemXDPI||0,g=window.screen.systemYDPI||0,f=f>0&&g>0?Math.min(screen.width/f,screen.height/g):
-0;(c<=370||f!=0&&f<=3)&&d?h=d:c<=960&&b&&a&&(h=b)}if(h)document.location=h+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone");
+0;(c<=370||f!=0&&f<=3)&&d?h=d:c<=960&&b&&a&&(h=b)}if(h)document.location=h+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/ ");
 
 // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -22,12 +22,12 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
 
-  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://eugenie.ml/phone"/>
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://eugenie.ml/phone/ "/>
   <link rel="shortcut icon" href="images/landing-favicon.ico?crc=3826413213"/>
   <title>Landing Page. Лэндинг Пейдж на заказ. Сайт визитка.</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=130238930"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3795053028" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=451912854" id="pagesheet"/>
     <!--custom head HTML-->
   <eugenie.ml/scripts/form_check.php>
   <!--HTML Widget code-->
@@ -800,21 +800,26 @@ time_is_widget.init({Chelyabinsk_z44a:{}});
       <div class="grpelem" id="u28121"><!-- custom html -->
         <!-- www.123formbuilder.com script begins here --><script type="text/javascript" defer src="//www.123formbuilder.com/embed/4903511.js" data-role="form" data-default-width="650px"></script><!-- www.123formbuilder.com script ends here -->
       </div>
-      <div class="clearfix grpelem" id="u27405"><!-- column -->
-       <div class="position_content" id="u27405_position_content">
+      <div class="clearfix grpelem" id="u27405"><!-- group -->
+       <div class="clearfix grpelem" id="pu28463"><!-- column -->
         <div class="colelem" id="u28463"><!-- simple frame --></div>
-        <div class="clearfix colelem" id="pu27744-4"><!-- group -->
+        <div class="clearfix colelem" id="pu28984"><!-- group -->
+         <div class="grpelem" id="u28984"><!-- simple frame --></div>
          <div class="clearfix grpelem" id="u27744-4"><!-- content -->
           <p>Так может выглядеть Ваш Сайт !!! htpps://&nbsp; bigsite.ml</p>
          </div>
          <a class="nonblock nontext grpelem" id="u30164" href="http://bigsite.ml/"><!-- content --></a>
         </div>
-        <div class="clearfix colelem" id="pu29356-4"><!-- group -->
+        <div class="clearfix colelem" id="pu28987"><!-- group -->
+         <div class="grpelem" id="u28987"><!-- simple frame --></div>
          <div class="clearfix grpelem" id="u29356-4"><!-- content -->
           <p>Демонстрационный проект&nbsp; !</p>
          </div>
          <a class="nonblock nontext grpelem" id="u30565" href="http://bigsite.ml/"><!-- content --></a>
         </div>
+       </div>
+       <div class="clip_frame grpelem" id="u28466"><!-- image -->
+        <img class="block" id="u28466_img" src="images/%d0%b5%d0%b4%d0%b0_11.jpg?crc=4061749203" data-hidpi-src="images/%d0%b5%d0%b4%d0%b0_11_2x.jpg?crc=4115641608" alt="" width="231" height="231"/>
        </div>
       </div>
       <div class="clearfix grpelem" id="u27404"><!-- group -->
@@ -846,15 +851,10 @@ time_is_widget.init({Chelyabinsk_z44a:{}});
         <div class="rounded-corners colelem" id="u29040"><!-- simple frame --></div>
        </div>
       </div>
-      <div class="grpelem" id="u28984"><!-- simple frame --></div>
-      <div class="grpelem" id="u28987"><!-- simple frame --></div>
       <div class="clip_frame grpelem" id="u23095"><!-- image -->
        <img class="block" id="u23095_img" src="images/%d0%ba%d1%80%d1%83%d0%b6%d0%be%d0%ba%20%d1%81%d0%b5%d1%80%d0%b5%d0%bd%d1%8c%d0%ba%d0%b8%d0%b9%20.gif?crc=4119807781" alt="" width="238" height="178"/>
       </div>
       <a class="nonblock nontext clearfix grpelem" id="u838-4" href="tel:+79087042608"><!-- content --><h3>tel.: +7 908 704 26 08</h3></a>
-      <div class="clip_frame grpelem" id="u28466"><!-- image -->
-       <img class="block" id="u28466_img" src="images/%d0%b5%d0%b4%d0%b0_11.jpg?crc=4061749203" data-hidpi-src="images/%d0%b5%d0%b4%d0%b0_11_2x.jpg?crc=4115641608" alt="" width="231" height="231"/>
-      </div>
       <div class="clip_frame grpelem" id="u30144"><!-- image -->
        <img class="block" id="u30144_img" src="images/visa%202.jpg?crc=76507793" data-hidpi-src="images/visa%202_2x.jpg?crc=443942061" alt="" width="143" height="61"/>
       </div>
@@ -878,7 +878,7 @@ time_is_widget.init({Chelyabinsk_z44a:{}});
    <a class="nonblock nontext rounded-corners grpelem" id="u354" href="https://soundcloud.com/roesch-music"><!-- content --></a>
    <img class="grpelem" id="u46775-4" alt="das Wetter" width="179" height="36" src="images/u46775-4.png?crc=4282231820" data-hidpi-src="images/u46775-4_2x.png?crc=4009564958"/><!-- rasterized frame -->
    <div class="grpelem" id="u58294"><!-- content --></div>
-   <div class="verticalspacer" data-offset-top="5433" data-content-above-spacer="5432" data-content-below-spacer="37"></div>
+   <div class="verticalspacer" data-offset-top="5488" data-content-above-spacer="5488" data-content-below-spacer="37"></div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/u1013-r.png?crc=487125187" alt=""/>

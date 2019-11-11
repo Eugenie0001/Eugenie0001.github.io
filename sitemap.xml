@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eugenie.ml/index.html</loc>
-    <lastmod>2019-10-14</lastmod>
+    <lastmod>2017-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eugenie.ml/phone/index.html"/>
@@ -232,6 +232,12 @@
       <image:loc>http://eugenie.ml/images/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%203_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://eugenie.ml/images/%D0%B5%D0%B4%D0%B0_11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://eugenie.ml/images/%D0%B5%D0%B4%D0%B0_11_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://eugenie.ml/images/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE-8.gif</image:loc>
     </image:image>
     <image:image>
@@ -239,12 +245,6 @@
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/%D0%BA%D1%80%D1%83%D0%B6%D0%BE%D0%BA%20%D1%81%D0%B5%D1%80%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9%20.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/%D0%B5%D0%B4%D0%B0_11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/%D0%B5%D0%B4%D0%B0_11_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://eugenie.ml/images/visa%202.jpg</image:loc>
