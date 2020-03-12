@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498782981702">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498816233458">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
-    <file name="index.css" crc="529087773" ref="index"/>
+    <file name="index.css" crc="454342921" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
@@ -184,10 +184,10 @@
     <file name="a (3)325x245_2x.jpg" crc="409577964" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a (4)325x245.jpg" crc="301491782" seo="true" ref="phone>index">
+    <file name="a (4).png" crc="3877026310" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a (4)325x245_2x.jpg" crc="171251909" seo="true" ref="phone>index">
+    <file name="a (4)_2x.png" crc="171251909" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a (5)325x245.jpg" crc="467780350" seo="true" ref="phone>index">
@@ -431,10 +431,10 @@
     <file name="a (3)284x215_2x.jpg" crc="258234772" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a (4)284x215.jpg" crc="116817759" seo="true" ref="phone>index">
+    <file name="a (4)284x215.png" crc="4251821269" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a (4)284x215_2x.jpg" crc="3852331624" seo="true" ref="phone>index">
+    <file name="a (4)284x215_2x.png" crc="480467004" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a (5)284x215.jpg" crc="373670193" seo="true" ref="phone>index">
@@ -466,7 +466,7 @@
     <file name="оформление сайта 1.jpg" crc="3759520450" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4266546142" seo="true" ref="index">
+    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4137716904" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
@@ -490,10 +490,10 @@
     <file name="изображение-для-моего-landing---округлость-1_2x.png" crc="3830131709" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="themes-list.png" crc="4256133062" seo="true" ref="index">
+    <file name="themes-list.png" crc="368727319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="themes-list_2x.png" crc="3797965222" seo="true" ref="index">
+    <file name="themes-list_2x.png" crc="228247272" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pdf значок 3.jpg" crc="3788184739" seo="true" ref="index">
@@ -506,12 +506,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="1_2x.png" crc="332291672" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2.png" crc="2236728" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2_2x.png" crc="357785228" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="5.png" crc="3965809845" seo="true" ref="index">
@@ -550,34 +544,16 @@
     <file name="7_2x.jpg" crc="436738890" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8.jpg" crc="334240705" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="8_2x.jpg" crc="517975515" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="9.jpg" crc="3946093170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="9_2x.jpg" crc="3980250778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="10.jpg" crc="21730480" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="10_2x.jpg" crc="4042695341" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="12.jpg" crc="4000009846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="12_2x.jpg" crc="4099149309" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13.jpg" crc="4265572749" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13_2x.jpg" crc="409707786" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="без-имени-1.jpg" crc="4051893494" seo="true" ref="index">
@@ -592,28 +568,10 @@
     <file name="11_2x.jpg" crc="33623719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="30.png" crc="3994597096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="30_2x.png" crc="3793762645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a (1).jpg" crc="4192828006" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a (1)_2x.jpg" crc="4232170286" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="a (3).jpg" crc="3898118226" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a (3)_2x.jpg" crc="59518793" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a (4).jpg" crc="192482850" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a (4)_2x.jpg" crc="3800060246" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a (5).jpg" crc="4256784203" seo="true" ref="index">
@@ -622,34 +580,10 @@
     <file name="a (5)_2x.jpg" crc="4061021572" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a (8).jpg" crc="4146622648" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a (8)_2x.jpg" crc="506594650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="27.png" crc="3792982088" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="27_2x.png" crc="4106875939" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="14.jpg" crc="4235432529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="14_2x.jpg" crc="4031740581" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="11.png" crc="431168288" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="11_2x.png" crc="526953061" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13.png" crc="262628422" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13_2x.png" crc="106974671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="16.png" crc="3938243759" seo="true" ref="index">
@@ -727,10 +661,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="356208167" ref="phone>index"/>
+      <file name="index.css" crc="355270080" ref="phone>index"/>
       <file name="nomq_index.css" crc="43996744" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4200901495" seo="true" mt="1498772875178" redirect="true"/>
+    <file name="index.html" crc="311934391" seo="true" mt="1498772875178" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4265824775" seo="true" mt="1498782843560" redirect="true"/>
+  <file name="index.html" crc="3859408955" seo="true" mt="1498816170285" redirect="true"/>
 </manifest>
