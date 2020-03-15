@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498728045981">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1584245905660">
   <folder name="css">
     <file name="site_global.css" crc="130238930"/>
     <file name="index.css" crc="533480507" ref="index"/>
@@ -51,14 +51,6 @@
     </file>
     <file name="часы-без-стрелок-5e-u47712.png" crc="4089080490" ref="phone>index"/>
     <file name="часы-без-стрелок-5e-u47712_2x.png" crc="93585536" ref="phone>index"/>
-    <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="градусник_2x.jpg" crc="5709416" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="молекулы.jpg" crc="163786109" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -69,6 +61,14 @@
     </file>
     <file name="u46411-4.png" crc="3843935026" ref="phone>index"/>
     <file name="u46411-4_2x.png" crc="57596131" ref="phone>index"/>
+    <file name="градусник.jpg" crc="52943119" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="градусник_2x.jpg" crc="5709416" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u58963-5.png" crc="4090813130" ref="phone>index"/>
     <file name="u58963-5_2x.png" crc="530960564" ref="phone>index"/>
     <file name="u58967-4.png" crc="449301781" ref="phone>index"/>
@@ -601,10 +601,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="159917997" ref="phone>index"/>
-      <file name="nomq_index.css" crc="273579985" ref="phone>index"/>
+      <file name="index.css" crc="4243805604" ref="phone>index"/>
+      <file name="nomq_index.css" crc="194919217" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3817422442" seo="true" mt="1498727989752" redirect="true"/>
+    <file name="index.html" crc="392660621" seo="true" mt="1584243892227" redirect="true"/>
   </folder>
   <file name="index.html" crc="332577667" seo="true" mt="1498692415813" redirect="true"/>
 </manifest>
